@@ -21,13 +21,16 @@ homeSubtitle = "monkey given a computer"
   [[menu.main]]
     identifier = "about"
     name       = "about"
+    title      = "about"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
     name       = "posts"
+    title      = "posts"
     url        = "posts/"
 
   [[menu.main]]
     identifier = "projects"
     name       = "projects"
     url        = "projects/"
+    title      = "projects"
