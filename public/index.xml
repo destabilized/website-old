@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>andrew huang</title>
-    <link>//localhost:1313/</link>
+    <link>andrewhuang.vercel.app/</link>
     <description>Recent content on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="andrewhuang.vercel.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>soph week 12/16- 12/20</title>
-      <link>//localhost:1313/posts/2024/12/soph-week-12/16-12/20/</link>
+      <link>andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/2024/12/soph-week-12/16-12/20/</guid>
+      <guid>andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</guid>
       <description>&lt;p&gt;this week was all about lightbox project, where i had lots of issues.&lt;/p&gt;</description>
     </item>
     <item>
       <title>projects</title>
-      <link>//localhost:1313/projects/</link>
+      <link>andrewhuang.vercel.app/projects/</link>
       <pubDate>Thu, 12 Dec 2024 14:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/</guid>
+      <guid>andrewhuang.vercel.app/projects/</guid>
       <description>&lt;h2 id=&#34;deep-reinforcement-aihttpsgithubcomsiwenceinqui&#34;&gt;&lt;a href=&#34;https://github.com/siwence/inqui&#34;&gt;deep reinforcement ai&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;2024-present&#34;&gt;2024-present&lt;/h4&gt;&#xA;&lt;p&gt;inspired by ai warehouse, i decided to try and create my own deep reinforcement learning ai from scratch.&lt;/p&gt;&#xA;&lt;p&gt;using an environment made using pybullet and gymnasium, i created a simple obstacle course where the ai has one objective: reaching the pressure plate. by using a dqn (deep q-network) it and a reward system, it&amp;rsquo;s movements will become seemingly random, before quickly adapting to reach the pressure plate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>about me</title>
-      <link>//localhost:1313/about/</link>
+      <link>andrewhuang.vercel.app/about/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
+      <guid>andrewhuang.vercel.app/about/</guid>
       <description>&lt;p&gt;i am currently a sophomore currently at medford vocational technical high school in the robotics and engineering shop. i am in the graduating class of 2027, with an interest in programming and electronics.&lt;/p&gt;&#xA;&lt;p&gt;i code in python and ardiuno, but open to learn new programming languages. additionally, i have some expertise in machining and cad, but i&amp;rsquo;m not as proficient in those fields.&lt;/p&gt;</description>
     </item>
   </channel>
