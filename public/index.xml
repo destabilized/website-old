@@ -13,7 +13,7 @@
       <link>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</guid>
-      <description>&lt;p&gt;this week was all about lightbox project, where i had lots of issues.&lt;/p&gt;</description>
+      <description>&lt;p&gt;this week was all about lightbox project, where i had lots of issues.&lt;/p&gt;&#xA;&lt;p&gt;generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84&lt;/p&gt;&#xA;&lt;p&gt;orignally, i was planning to use an attiny25, as the shop doesn&amp;rsquo;t have an attiny85&amp;rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>projects</title>

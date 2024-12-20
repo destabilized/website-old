@@ -14,14 +14,17 @@
             <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
             
             <guid>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</guid>
-            <description>&lt;p&gt;this week was all about lightbox project, where i had lots of issues.&lt;/p&gt;</description>
+            <description>&lt;p&gt;this week was all about lightbox project, where i had lots of issues.&lt;/p&gt;
+&lt;p&gt;generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84&lt;/p&gt;
+&lt;p&gt;orignally, i was planning to use an attiny25, as the shop doesn&amp;rsquo;t have an attiny85&amp;rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>this week was all about lightbox project, where i had lots of issues.</p>
 <p>generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84</p>
 <p>orignally, i was planning to use an attiny25, as the shop doesn&rsquo;t have an attiny85&rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.</p>
 <p>using the attiny84 was just as frustrating, as the microcontroller stopped working randomly many times, setting me back quite a bit of time</p>
 <p>in the end, i got a simple temperature sensor to partially work with my lightbox. (the 18b20 temp sensor im using is having connection issues, which leads to the code running half the time) which will be depicting the color of my box.</p>
 <p><img src="/img/soph/sw1/sw1.png" alt="monkey"></p>
-<h6 id="why-tf-is-this-floating">why tf is this floating&hellip;</h6>]]></content>
+<h6 id="why-is-this-floating">why is this floating&hellip;</h6>
+]]></content>
         </item>
         
     </channel>

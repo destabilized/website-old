@@ -11,16 +11,10 @@
     <loc>https://andrewhuang.vercel.app/categories/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://andrewhuang.vercel.app/tags/mentally-ill/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://andrewhuang.vercel.app/posts/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://andrewhuang.vercel.app/tags/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewhuang.vercel.app/projects/</loc>
@@ -28,5 +22,7 @@
   </url><url>
     <loc>https://andrewhuang.vercel.app/about/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewhuang.vercel.app/tags/</loc>
   </url>
 </urlset>
