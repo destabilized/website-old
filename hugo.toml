@@ -1,4 +1,4 @@
-baseURL = 'https://andrewhuang.vercel.app'
+baseURL = 'example.com'
 languageCode = 'en-us'
 title = "andrew huang"
 theme = 'hello-friend-ng'
