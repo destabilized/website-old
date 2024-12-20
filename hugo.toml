@@ -1,0 +1,33 @@
+baseURL = 'andrewhuang.vercel.app'
+languageCode = 'en-us'
+title = "andrew huang"
+theme = 'hello-friend-ng'
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[params]
+homeSubtitle = "monkey given a computer"
+
+  [[params.social]]
+    name = "email"
+    url  = "az42hu@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/siwence"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "about"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "posts"
+    url        = "posts/"
+
+  [[menu.main]]
+    identifier = "projects"
+    name       = "projects"
+    url        = "projects/"

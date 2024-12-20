@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on andrew huang</title>
+    <link>http://localhost:1313/tags/hello/</link>
+    <description>Recent content in Hello on andrew huang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2024 13:45:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Thu, 12 Dec 2024 13:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/</guid>
+      <description>&lt;h2 id=&#34;my-first-blog-post&#34;&gt;My First Blog Post&lt;/h2&gt;&#xA;&lt;p&gt;Welcome to my first blog post on Hugo using the Hello Friend NG theme! This is an example of how you can structure your blog content.&lt;/p&gt;&#xA;&lt;h3 id=&#34;subheading&#34;&gt;Subheading&lt;/h3&gt;&#xA;&lt;p&gt;Here’s some more content. You can add images, code snippets, and more.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
