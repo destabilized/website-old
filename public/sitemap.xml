@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://andrewhuang.vercel.app/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/blog/</loc>
+    <loc>https://andrewhuang.vercel.app/categories/blog/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://andrewhuang.vercel.app/categories/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mentally-ill/</loc>
+    <loc>https://andrewhuang.vercel.app/tags/mentally-ill/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://andrewhuang.vercel.app/tags/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://andrewhuang.vercel.app/projects/</loc>
     <lastmod>2024-12-12T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://andrewhuang.vercel.app/about/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url>
 </urlset>
