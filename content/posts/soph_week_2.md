@@ -1,6 +1,6 @@
 ---
 date: 2025-01-09
-title: "soph week 1/2- 1/10"
+title: "soph week 1/2 - 1/10"
 draft: false
 categories: ["blog"]
 ---
@@ -10,14 +10,16 @@ new years, same bugs.
 due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.
 
 i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb. 
+
 #### 2d model of my pcb
+![website](/img/soph/sw2/pcb.png)
 
-
-shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible. 
+shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible. i may redesign the board to use a type-c connector for power to better fit my design
 
 #### schematic of the board
+![website](/img/soph/sw2/schem.png)
 
-with the board design, unless i decide to make new improvements, i'm reading to pcb mill upon finishing my lightbox. 
+with the board design, unless i decide to make new improvements, i'm ready to pcb mill upon finishing my lightbox. 
 
 #### box design
 i decided to try and 3d print my box, using the acrylic piece as a face of my box. originally, i was going to try and make it as compact as possible, but i found more interest trying to 3d model a mac mini design by scratch, and replace the top apple logo with my acrylic piece. 
