@@ -35,3 +35,5 @@ like last year, the bugs persist.
 like last post, the negative number (-196) shows that the temperature sensor is still floating. it was working the previous days of the week, until when i had to finish up the software of my program. the previous problem was due to my "led_pin" being set at 9, as even though it was wired up correctly, it caused an issue somehow which lead to the temperature sensor continuously printing -196. 
 
 besides that bug, i finalized the code for the lightbox (assuming this works). i decided to use a switch statement which changes the severity of a blue color depending on the temperature in the room, mapped with a range (0-20, 20-40, 40-60, 60-80, 80+)
+
+however, more bugs continue, with the attiny84 randomly deciding to not respond, leading to me having to swap out the metro-mini that i'm using as the master. 
