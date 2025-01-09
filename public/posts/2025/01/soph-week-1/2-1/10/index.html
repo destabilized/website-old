@@ -6,19 +6,20 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="this week was all about lightbox project, where i had lots of issues.
-generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84
-orignally, i was planning to use an attiny25, as the shop doesn&rsquo;t have an attiny85&rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.
+<meta name="description" content="new years, same bugs.
+due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.
+i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.
+2d model of my pcb shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible.
 " />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
-<link rel="canonical" href="http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/" />
+<link rel="canonical" href="http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/" />
 
 
     <title>
         
-            soph week 12/16- 12/20 :: andrew huang 
+            soph week 1/2- 1/10 :: andrew huang 
         
     </title>
 
@@ -42,20 +43,22 @@ orignally, i was planning to use an attiny25, as the shop doesn&rsquo;t have an 
 
 
 
-  <meta itemprop="name" content="soph week 12/16- 12/20">
-  <meta itemprop="description" content="this week was all about lightbox project, where i had lots of issues.
-generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84
-orignally, i was planning to use an attiny25, as the shop doesn’t have an attiny85’s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.">
-  <meta itemprop="datePublished" content="2024-12-19T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2024-12-19T00:00:00+00:00">
-  <meta itemprop="wordCount" content="153">
+  <meta itemprop="name" content="soph week 1/2- 1/10">
+  <meta itemprop="description" content="new years, same bugs.
+due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.
+i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.
+2d model of my pcb shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible.">
+  <meta itemprop="datePublished" content="2025-01-09T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-01-09T00:00:00+00:00">
+  <meta itemprop="wordCount" content="352">
   <meta itemprop="keywords" content="Blog">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="soph week 12/16- 12/20">
-  <meta name="twitter:description" content="this week was all about lightbox project, where i had lots of issues.
-generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84
-orignally, i was planning to use an attiny25, as the shop doesn’t have an attiny85’s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.">
+  <meta name="twitter:title" content="soph week 1/2- 1/10">
+  <meta name="twitter:description" content="new years, same bugs.
+due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.
+i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.
+2d model of my pcb shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible.">
 
 
 
@@ -65,7 +68,7 @@ orignally, i was planning to use an attiny25, as the shop doesn’t have an atti
 
 
 
-    <meta property="article:published_time" content="2024-12-19 00:00:00 &#43;0000 UTC" />
+    <meta property="article:published_time" content="2025-01-09 00:00:00 &#43;0000 UTC" />
 
 
 
@@ -130,14 +133,14 @@ orignally, i was planning to use an attiny25, as the shop doesn’t have an atti
           <circle cx="12" cy="12" r="10"></circle>
           <polyline points="12 6 12 12 16 14"></polyline>
         </svg>
-        One minute
+        2 minutes
         
       </p>
     </div>
 
     <article>
       <h1 class="post-title">
-        <a href="http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/">soph week 12/16- 12/20</a>
+        <a href="http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/">soph week 1/2- 1/10</a>
       </h1>
 
       
@@ -147,13 +150,22 @@ orignally, i was planning to use an attiny25, as the shop doesn’t have an atti
       
 
       <div class="post-content">
-        <p>this week was all about lightbox project, where i had lots of issues.</p>
-<p>generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84</p>
-<p>orignally, i was planning to use an attiny25, as the shop doesn&rsquo;t have an attiny85&rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.</p>
-<p>using the attiny84 was just as frustrating, as the microcontroller stopped working randomly many times, setting me back quite a bit of time</p>
-<p>in the end, i got a simple temperature sensor to partially work with my lightbox. (the 18b20 temp sensor im using is having connection issues, which leads to the code running half the time) which will be depicting the color of my box.</p>
-<p><img src="/img/soph/sw1/sw1.png" alt="monkey"></p>
-<h6 id="why-is-this-floating">why is this floating&hellip;</h6>
+        <p>new years, same bugs.</p>
+<p>due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.</p>
+<p>i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.</p>
+<h4 id="2d-model-of-my-pcb">2d model of my pcb</h4>
+<p>shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible.</p>
+<h4 id="schematic-of-the-board">schematic of the board</h4>
+<p>with the board design, unless i decide to make new improvements, i&rsquo;m reading to pcb mill upon finishing my lightbox.</p>
+<h4 id="box-design">box design</h4>
+<p>i decided to try and 3d print my box, using the acrylic piece as a face of my box. originally, i was going to try and make it as compact as possible, but i found more interest trying to 3d model a mac mini design by scratch, and replace the top apple logo with my acrylic piece.</p>
+<p><img src="/img/soph/sw2/3d_model.png" alt="website"></p>
+<p>the box still has lots of work to be done, as i want to try and incorporate all the features of the mac mini, including usb ports, ethernet port, and the bottom fan part. throughout the process of creating this box, i spent time talking with mr.l about overhang, and how to counteract any problems with it.</p>
+<h4 id="code-bugs">code bugs</h4>
+<p>like last year, the bugs persist.
+<img src="/img/soph/sw2/code.png" alt="website"></p>
+<p>like last post, the negative number (-196) shows that the temperature sensor is still floating. it was working the previous days of the week, until when i had to finish up the software of my program. the previous problem was due to my &ldquo;led_pin&rdquo; being set at 9, as even though it was wired up correctly, it caused an issue somehow which lead to the temperature sensor continuously printing -196.</p>
+<p>besides that bug, i finalized the code for the lightbox (assuming this works). i decided to use a switch statement which changes the severity of a blue color depending on the temperature in the room, mapped with a range (0-20, 20-40, 40-60, 60-80, 80+)</p>
 
       </div>
     </article>
@@ -179,7 +191,7 @@ orignally, i was planning to use an attiny25, as the shop doesn’t have an atti
           <line x1="16" y1="17" x2="8" y2="17"></line>
           <polyline points="10 9 9 9 8 9"></polyline>
         </svg>
-        153 Words
+        352 Words
       </p>
 
       <p>
@@ -190,7 +202,7 @@ orignally, i was planning to use an attiny25, as the shop doesn’t have an atti
           <line x1="3" y1="10" x2="21" y2="10"></line>
         </svg>
         
-          2024-12-18 19:00
+          2025-01-08 19:00
         
 
          
@@ -205,14 +217,14 @@ orignally, i was planning to use an attiny25, as the shop doesn’t have an atti
 
         <div class="pagination__buttons">
             
-            <span class="button previous">
-                <a href="http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/">
-                    <span class="button__icon">←</span>
-                    <span class="button__text">soph week 1/2- 1/10</span>
+
+            
+            <span class="button next">
+                <a href="http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/">
+                    <span class="button__text">soph week 12/16- 12/20</span>
+                    <span class="button__icon">→</span>
                 </a>
             </span>
-            
-
             
         </div>
     </div>

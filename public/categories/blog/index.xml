@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on andrew huang</title>
-    <link>https://andrewhuang.vercel.app/categories/blog/</link>
+    <link>http://localhost:1313/categories/blog/</link>
     <description>Recent content in Blog on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andrewhuang.vercel.app/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 1/2- 1/10</title>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/</guid>
+      <description>&lt;p&gt;new years, same bugs.&lt;/p&gt;&#xA;&lt;p&gt;due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.&lt;/p&gt;&#xA;&lt;p&gt;i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.&lt;/p&gt;&#xA;&lt;h4 id=&#34;2d-model-of-my-pcb&#34;&gt;2d model of my pcb&lt;/h4&gt;&#xA;&lt;p&gt;shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 12/16- 12/20</title>
-      <link>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</link>
+      <link>http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</guid>
+      <guid>http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/</guid>
       <description>&lt;p&gt;this week was all about lightbox project, where i had lots of issues.&lt;/p&gt;&#xA;&lt;p&gt;generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84&lt;/p&gt;&#xA;&lt;p&gt;orignally, i was planning to use an attiny25, as the shop doesn&amp;rsquo;t have an attiny85&amp;rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.&lt;/p&gt;</description>
     </item>
   </channel>
