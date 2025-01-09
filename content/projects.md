@@ -15,7 +15,7 @@ through this project, i learned the basics of deep reinforcement ai learning, an
 
 finished a few days after the new years, just for the code and conda prompt to stop working.
 
-## [pokemeow script] (https://github.com/siwence/pokemeow-script)
+## [pokemeow script](https://github.com/siwence/pokemeow-script)
 #### 2025
 
 during the christmas break, i wanted to make some simple scripts to automate games. 
