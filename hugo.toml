@@ -11,7 +11,7 @@ homeSubtitle = "monkey given a computer"
 
   [[params.social]]
     name = "email"
-    url  = "az42hu@gmail.com"
+    url  = "mailto:az42hu@gmail.com"
 
   [[params.social]]
     name = "github"
