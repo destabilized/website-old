@@ -6,8 +6,15 @@
     <description>Recent content on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 1/13 - 1/17</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/13-1/17/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/13-1/17/</guid>
+      <description>&lt;p&gt;finally figured out how all the bugs work, and fixed them.&lt;/p&gt;&#xA;&lt;p&gt;another week of the lightbox project, where i spent monday finalizing my code, before working purely on my box design.&lt;/p&gt;&#xA;&lt;h4 id=&#34;box-design&#34;&gt;box design&lt;/h4&gt;&#xA;&lt;p&gt;i started this week by restarting my entire box, as i previously didn&amp;rsquo;t have my box cenetered around the origin, and i was building it on the wrong axis. additionally, the dimensions were all messed up, as i was using a wrong scale. upon fixing all my mistakes, i started adding in all of the different type of connection ports on the mac mini. these ports won&amp;rsquo;t have any functionality besides one, which will be used for powering the lightbox.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 1/2 - 1/10</title>
       <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/2-1/10/</link>

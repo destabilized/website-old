@@ -2,7 +2,7 @@
 date: 2024-12-19
 title: "soph week 12/16 - 12/20"
 draft: false
-categories: ["blog"]
+categories: ["blog", "lightbox"]
 ---
 
 this week was all about lightbox project, where i had lots of issues. 

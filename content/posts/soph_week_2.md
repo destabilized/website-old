@@ -2,7 +2,7 @@
 date: 2025-01-09
 title: "soph week 1/2 - 1/10"
 draft: false
-categories: ["blog"]
+categories: ["blog", "lightbox"]
 ---
 
 new years, same bugs. 
