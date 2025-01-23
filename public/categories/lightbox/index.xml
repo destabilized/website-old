@@ -6,8 +6,15 @@
     <description>Recent content in Lightbox on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/categories/lightbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 1/20 - 1/24</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/20-1/24/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/20-1/24/</guid>
+      <description>&lt;p&gt;slightly shorter week due to mlk day, so i focused more on double checking everything rather than starting something new.&lt;/p&gt;&#xA;&lt;h4 id=&#34;box-design-completed&#34;&gt;box design (completed?)&lt;/h4&gt;&#xA;&lt;p&gt;i first created the lid for my box, which utilizes friction-fit, eliminating the need to use screws to keep the aesthetics clean.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/sw4/lid.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;additionally, i designed a separate compartment to house my neopixel. i previously had the component connected with my lid, but that would lead to overhang when printing. by creating it as a new component, i will have to print them separately, and combine them together.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 1/13 - 1/17</title>
       <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/13-1/17/</link>
