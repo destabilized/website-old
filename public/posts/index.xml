@@ -5,8 +5,40 @@
         <description>Recent content in Posts on andrew huang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 23 Jan 2025 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://andrewhuang.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>soph week 1/27 - 1/31</title>
+            <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/27-1/31/</link>
+            <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/27-1/31/</guid>
+            <description>&lt;p&gt;i should be able to finish my lightbox by next week. just a few more tasks left to complete.&lt;/p&gt;
+&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/5/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;
+&lt;p&gt;while preparing to mill my pcb, mr. christy suggested that using power and ground symbols would help clean up my schematic. i also ran into some issues during the milling process because i used incorrect components, as i hadn’t taken the time to set up an electronic library.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>i should be able to finish my lightbox by next week. just a few more tasks left to complete.</p>
+<h4 id="schematic-of-the-board">schematic of the board</h4>
+<p><img src="/img/soph/5/schem.png" alt="website"></p>
+<p>while preparing to mill my pcb, mr. christy suggested that using power and ground symbols would help clean up my schematic. i also ran into some issues during the milling process because i used incorrect components, as i hadn’t taken the time to set up an electronic library.</p>
+<h4 id="pcb-errors">pcb errors</h4>
+<p><img src="/img/soph/5/error_1.png" alt="website"></p>
+<p>the image above shows my pcb with several errors. the primary issue was that the traces were too thick, leaving insufficient clearance between components. although i could have enlarged the pcb to resolve these problems, i preferred the compact design and opted to reduce the trace width to 35mils instead of 50mils.</p>
+<p><img src="/img/soph/5/error_2.png" alt="website"></p>
+<p>after addressing those errors, five new ones appeared. these were caused by using the wrong components, as i hadn’t properly managed my electronic library (as mentioned earlier). once i fixed this, all errors were resolved, and the pcb was ready for milling.</p>
+<p><img src="/img/soph/5/no_errors.png" alt="website"></p>
+<h4 id="3d-pcb">3d pcb.</h4>
+<p><img src="/img/soph/5/3dpcb.png" alt="website"></p>
+<p>once the pcb was milled, most of my time was spent crimping the power and ground wires and replacing the neopixel with a lightstrip. i also designed a power mechanism to supply energy to the board. unfortunately, there were no aux connectors available, so adding an aux power option wasn’t possible.</p>
+<h4 id="finished-product-pcb">finished product (pcb)</h4>
+<p><img src="/img/soph/5/finished.jpg" alt="website"></p>
+<p>after milling my pcb, i spent most of my time crimping the power and ground wires together, while also swapping the neopixel to a lightstrip. following this, i created a power mechanism in order to power up my board. sadly, there were no aux connectors, so making an aux connector to power my board wouldn&rsquo;t have been possible.</p>
+<h4 id="acrylic-piece">acrylic piece</h4>
+<p><img src="/img/soph/5/piece.png" alt="website"></p>
+<p>with the pcb complete, the final steps are to 3d print the box and finish the acrylic piece. i’ll start printing the box soon, as i can work on the acrylic piece simultaneously. by the end of next week, everything should be ready for assembly.</p>
+]]></content>
+        </item>
         
         <item>
             <title>soph week 1/20 - 1/24</title>
@@ -17,18 +49,18 @@
             <description>&lt;p&gt;slightly shorter week due to mlk day, so i focused more on double checking everything rather than starting something new.&lt;/p&gt;
 &lt;h4 id=&#34;box-design-completed&#34;&gt;box design (completed?)&lt;/h4&gt;
 &lt;p&gt;i first created the lid for my box, which utilizes friction-fit, eliminating the need to use screws to keep the aesthetics clean.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/sw4/lid.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/4/lid.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;
 &lt;p&gt;additionally, i designed a separate compartment to house my neopixel. i previously had the component connected with my lid, but that would lead to overhang when printing. by creating it as a new component, i will have to print them separately, and combine them together.&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>slightly shorter week due to mlk day, so i focused more on double checking everything rather than starting something new.</p>
 <h4 id="box-design-completed">box design (completed?)</h4>
 <p>i first created the lid for my box, which utilizes friction-fit, eliminating the need to use screws to keep the aesthetics clean.</p>
-<p><img src="/img/soph/sw4/lid.png" alt="website"></p>
+<p><img src="/img/soph/4/lid.png" alt="website"></p>
 <p>additionally, i designed a separate compartment to house my neopixel. i previously had the component connected with my lid, but that would lead to overhang when printing. by creating it as a new component, i will have to print them separately, and combine them together.</p>
-<p><img src="/img/soph/sw4/np.png" alt="website"></p>
+<p><img src="/img/soph/4/np.png" alt="website"></p>
 <p>in order to connect the two parts, i plan to use glue. overall, the box looks pretty clean, with no screws and an easy way to fix the box if error&rsquo;s were to occur.</p>
-<p><img src="/img/soph/sw4/both.png" alt="website"></p>
+<p><img src="/img/soph/4/both.png" alt="website"></p>
 <p>i believe that at this point, i&rsquo;m done with my lightbox. i will have to check wil mr.l about any potential errors before trying to print out the box. once confirmed, i will move onto creating my acrylic design, which will most likely feature a derpy pokemon design.</p>
-<p><img src="/img/soph/sw4/full.png" alt="website"> <img src="/img/soph/sw4/diff_view.png" alt="website"></p>
+<p><img src="/img/soph/4/full.png" alt="website"> <img src="/img/soph/4/diff_view.png" alt="website"></p>
 <p>while finishing the box, a problem occured when making the lid, as the male headers on my pcb were too long and entering in the housing for the neopixel. to counteract this, i decided to scale my design by 0.75 instead of 0.5, leading to a slightly larger box. i&rsquo;m pretty happy with how the model is turning out, as cad isn&rsquo;t my strong suit. there are some things that i don&rsquo;t like, such as having a massive hole for power and not having the fan&rsquo;s on the bottom of the mac mini, as i&rsquo;m not sure how to make it, and not sure if it&rsquo;s possible to print it. to deal with the massive hole, me and my friend miles have discussed potentially using an auxiliary cable for power to make the design more realistic, and remove that massive hole for power.</p>
 ]]></content>
         </item>
@@ -47,12 +79,12 @@
 <p>another week of the lightbox project, where i spent monday finalizing my code, before working purely on my box design.</p>
 <h4 id="box-design">box design</h4>
 <p>i started this week by restarting my entire box, as i previously didn&rsquo;t have my box cenetered around the origin, and i was building it on the wrong axis. additionally, the dimensions were all messed up, as i was using a wrong scale. upon fixing all my mistakes, i started adding in all of the different type of connection ports on the mac mini. these ports won&rsquo;t have any functionality besides one, which will be used for powering the lightbox.</p>
-<p><img src="/img/soph/sw3/3d.png" alt="website"></p>
+<p><img src="/img/soph/3/3d.png" alt="website"></p>
 <p>after finishing, i decided to consult my friend jonas for some help with creating standoffs, which will be used to mount my pcb on my box.</p>
 <p>on my previous blog posts, i mentioned how i wanted to somehow make the acrylic design as a face of the box. however, there would be lots of problems revolving around orienting the neopixel in the way where it could stay secure, and still be able directly below the acrylic piece. therefore, unless i find a new solution, i will be moving forward from this idea, and use the top face to hold my acrylic piece.</p>
 <h4 id="code--bug-fixes">code + bug fixes</h4>
 <p>i decided to finally take a close look into my code to figure out some of my bugs, and i found them
-<img src="/img/soph/sw3/code.png" alt="website"></p>
+<img src="/img/soph/3/code.png" alt="website"></p>
 <p>previously, i stated how my temperature sensor was floating, yet worked one time upon changing the led_pin to 10.</p>
 <p>this wasn&rsquo;t the problem, but rather me messing things up.</p>
 <p>i accidently swapped onewire with the led_pin, causing my neopixel to be connected to my onewire, and my led_pin to be connected to my temperature sensor.</p>
@@ -73,24 +105,24 @@
 &lt;p&gt;due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.&lt;/p&gt;
 &lt;p&gt;i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.&lt;/p&gt;
 &lt;h4 id=&#34;2d-model-of-my-pcb&#34;&gt;2d model of my pcb&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/sw2/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/2/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;
 &lt;p&gt;shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible. i may redesign the board to use a type-c connector for power to better fit my design&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>new years, same bugs.</p>
 <p>due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.</p>
 <p>i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.</p>
 <h4 id="2d-model-of-my-pcb">2d model of my pcb</h4>
-<p><img src="/img/soph/sw2/pcb.png" alt="website"></p>
+<p><img src="/img/soph/2/pcb.png" alt="website"></p>
 <p>shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible. i may redesign the board to use a type-c connector for power to better fit my design</p>
 <h4 id="schematic-of-the-board">schematic of the board</h4>
-<p><img src="/img/soph/sw2/schem.png" alt="website"></p>
+<p><img src="/img/soph/2/schem.png" alt="website"></p>
 <p>with the board design, unless i decide to make new improvements, i&rsquo;m ready to pcb mill upon finishing my lightbox.</p>
 <h4 id="box-design">box design</h4>
 <p>i decided to try and 3d print my box, using the acrylic piece as a face of my box. originally, i was going to try and make it as compact as possible, but i found more interest trying to 3d model a mac mini design by scratch, and replace the top apple logo with my acrylic piece.</p>
-<p><img src="/img/soph/sw2/3d_model.png" alt="website"></p>
+<p><img src="/img/soph/2/3d_model.png" alt="website"></p>
 <p>the box still has lots of work to be done, as i want to try and incorporate all the features of the mac mini, including usb ports, ethernet port, and the bottom fan part. throughout the process of creating this box, i spent time talking with mr.l about overhang, and how to counteract any problems with it.</p>
 <h4 id="code-bugs">code bugs</h4>
 <p>like last year, the bugs persist.
-<img src="/img/soph/sw2/code.png" alt="website"></p>
+<img src="/img/soph/2/code.png" alt="website"></p>
 <p>like last post, the negative number (-196) shows that the temperature sensor is still floating. it was working the previous days of the week, until when i had to finish up the software of my program. the previous problem was due to my &ldquo;led_pin&rdquo; being set at 9, as even though it was wired up correctly, it caused an issue somehow which lead to the temperature sensor continuously printing -196.</p>
 <p>besides that bug, i finalized the code for the lightbox (assuming this works). i decided to use a switch statement which changes the severity of a blue color depending on the temperature in the room, mapped with a range (0-20, 20-40, 40-60, 60-80, 80+)</p>
 <p>however, more bugs continue, with the attiny84 randomly deciding to not respond, leading to me having to swap out the metro-mini that i&rsquo;m using as the master.</p>
@@ -111,7 +143,7 @@
 <p>orignally, i was planning to use an attiny25, as the shop doesn&rsquo;t have an attiny85&rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.</p>
 <p>using the attiny84 was just as frustrating, as the microcontroller stopped working randomly many times, setting me back quite a bit of time</p>
 <p>in the end, i got a simple temperature sensor to partially work with my lightbox. (the 18b20 temp sensor im using is having connection issues, which leads to the code running half the time) which will be depicting the color of my box.</p>
-<p><img src="/img/soph/sw1/sw1.png" alt="monkey"></p>
+<p><img src="/img/soph/1/sw1.png" alt="monkey"></p>
 <h6 id="why-is-this-floating">why is this floating&hellip;</h6>
 ]]></content>
         </item>

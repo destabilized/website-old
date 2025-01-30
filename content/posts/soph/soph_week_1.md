@@ -16,5 +16,5 @@ using the attiny84 was just as frustrating, as the microcontroller stopped worki
 in the end, i got a simple temperature sensor to partially work with my lightbox. (the 18b20 temp sensor im using is having connection issues, which leads to the code running half the time) which will be depicting the color of my box. 
 
 
-![monkey](/img/soph/sw1/sw1.png)
+![monkey](/img/soph/1/sw1.png)
 ###### why is this floating...

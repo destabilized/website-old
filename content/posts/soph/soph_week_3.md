@@ -12,7 +12,7 @@ another week of the lightbox project, where i spent monday finalizing my code, b
 #### box design
 i started this week by restarting my entire box, as i previously didn't have my box cenetered around the origin, and i was building it on the wrong axis. additionally, the dimensions were all messed up, as i was using a wrong scale. upon fixing all my mistakes, i started adding in all of the different type of connection ports on the mac mini. these ports won't have any functionality besides one, which will be used for powering the lightbox. 
 
-![website](/img/soph/sw3/3d.png)
+![website](/img/soph/3/3d.png)
 
 after finishing, i decided to consult my friend jonas for some help with creating standoffs, which will be used to mount my pcb on my box.
 
@@ -20,7 +20,7 @@ on my previous blog posts, i mentioned how i wanted to somehow make the acrylic 
 
 #### code + bug fixes
 i decided to finally take a close look into my code to figure out some of my bugs, and i found them
-![website](/img/soph/sw3/code.png)
+![website](/img/soph/3/code.png)
 
 previously, i stated how my temperature sensor was floating, yet worked one time upon changing the led_pin to 10.
 
