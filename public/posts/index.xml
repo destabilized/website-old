@@ -5,8 +5,47 @@
         <description>Recent content in Posts on andrew huang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://andrewhuang.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>soph week 2/3 - 2/7 (finished lightbox)</title>
+            <link>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</link>
+            <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</guid>
+            <description>&lt;p&gt;i broke another computer. that makes it the fourth thing i’ve broken this year as a sophomore&amp;hellip; at least i managed to complete my lightbox this week.&lt;/p&gt;
+&lt;p&gt;most of my time was spent 3d printing the enclosure and laser cutting the acrylic piece.&lt;/p&gt;
+&lt;h4 id=&#34;acrylic-piece&#34;&gt;acrylic piece&lt;/h4&gt;
+&lt;p&gt;while the box parts were printing, i continued working on the acrylic design and did a test cut on cardboard to check the fit.
+&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/6/card.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;
+&lt;p&gt;the initial piece was slightly longer than i wanted, so i scaled it down to make it more compact. the adjusted size looked much better.
+website.
+&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/6/acrylic.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>i broke another computer. that makes it the fourth thing i’ve broken this year as a sophomore&hellip; at least i managed to complete my lightbox this week.</p>
+<p>most of my time was spent 3d printing the enclosure and laser cutting the acrylic piece.</p>
+<h4 id="acrylic-piece">acrylic piece</h4>
+<p>while the box parts were printing, i continued working on the acrylic design and did a test cut on cardboard to check the fit.
+<img src="/img/soph/6/card.jpeg" alt="website"></p>
+<p>the initial piece was slightly longer than i wanted, so i scaled it down to make it more compact. the adjusted size looked much better.
+website.
+<img src="/img/soph/6/acrylic.png" alt="website"></p>
+<h4 id="main-component">main component</h4>
+<p><img src="/img/soph/6/main.jpeg" alt="website">
+before the weekend, i started the 3d print for the main housing of my box and when we returned, it turned out amazing, unlike a few other components.</p>
+<h4 id="lid">lid</h4>
+<p>umm&hellip; i had a few errors with this&hellip;
+<img src="/img/soph/6/lid1.jpeg" alt="website">
+my first attempt at printing the lid was on the neptune, but it ended up warping. after discussing with others, i learned that many people faced similar issues with warping on that printer. to fix this, i decided to reprint it on the fusion3.</p>
+<p><img src="/img/soph/6/lid2.jpeg" alt="website">
+the second try turned into spaghetti, likely because i didn’t use enough adhesive. this forced me to print the lid a third time&hellip;</p>
+<p><img src="/img/soph/6/lid3.jpeg" alt="website">
+finally, after applying too much glue, the lid printed perfectly without any warping or other issues. with this done, only one piece remained before i could assemble the box.</p>
+<h4 id="finished-product">finished product</h4>
+<p><img src="/img/soph/6/full.jpeg" alt="website">
+with all three prints completed and the acrylic piece finished (cut on the small laser cutter since the larger one was broken), my lightbox is finally done. the temperature sensor isn’t very practical since it’s enclosed, limiting airflow and temperature changes, but it still functions somewhat. the lid fit wasn’t perfect—it required a bit of force to secure—but it eventually worked, and everything came together nicely. moving forward, i have a few vague ideas for projects that i may tackle before we start the sumobot.</p>
+]]></content>
+        </item>
         
         <item>
             <title>soph week 1/27 - 1/31</title>
