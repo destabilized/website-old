@@ -25,3 +25,14 @@ i remembered a simple pokemon discord bot game, which i used to play a bunch of 
 using pyautogui to write the commands to spawn the pokemon, and pytesseract to determine which pokeball to use to catch the pokemon, it is able to be run with some supervision to automatically catch pokemon
 
 in the future, i may train a yolo model and allow the script to solve captcha images which the pokemeow bot provides if it detects that you may potentially be botting, making the script fully autonomous. 
+
+## lightbox project
+#### 2025
+
+the lightbox project is a hands-on engineering project that is required for sophomore students where they will design and build a lightbox from scratch. in this project, students will incorperate a housing for a box, and some sort of sensor mechanism to illuminate a custom acrylic piece. 
+
+for my the housing of my lightbox, i decided to use a model of the mac mini, using a 0.75 scale and eventually 3d printed it.
+
+for the sensor, i decided to use a temperature sensor, which would change the color of the acrylic depending on the temperature. this wasn't the best idea, as the temperature sensor was inside my housing, and would rarely change temperatures
+
+for my acrylic piece, i found a derpy version of froakie, and ended up using that as my acyrlic piece.
