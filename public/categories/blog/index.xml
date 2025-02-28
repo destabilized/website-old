@@ -6,8 +6,15 @@
     <description>Recent content in Blog on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 2/24 - 2/28 (new proj)</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/24-2/28-new-proj/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/24-2/28-new-proj/</guid>
+      <description>&lt;p&gt;we weren’t required to write a blog post before break, so i’m including all the updates from that week here as well.&lt;/p&gt;&#xA;&lt;p&gt;i got inspiration from &lt;a href=&#34;https://www.youtube.com/@optimumtech&#34;&gt;optimum&lt;/a&gt; youtube videos, where he creates a custom mod for the viper v2 pro mouse.&lt;/p&gt;&#xA;&lt;p&gt;i decided to try something similar with the targus amu660, taking its internals and designing a &amp;ldquo;zerømouse&amp;rdquo;-inspired shell for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;3d-model-of-pcb&#34;&gt;3d model of pcb&lt;/h4&gt;&#xA;&lt;p&gt;i began by creating a basic 3d model of the pcb to serve as the foundation for the shell and other components. in the image below, i’ve only modeled the left and right mouse buttons, along with the parts needed for the scroll wheel.&#xA;website&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/7/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 2/3 - 2/7 (finished lightbox)</title>
       <link>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</link>
