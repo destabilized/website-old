@@ -6,8 +6,15 @@
     <description>Recent content on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 3/3 - 3/14 (sumobot)</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/</guid>
+      <description>&lt;p&gt;long blog post because we didn&amp;rsquo;t really do much last week, so i&amp;rsquo;m cramming everyhting into this blog post.&lt;/p&gt;&#xA;&lt;p&gt;we started the sumobot project, where we have to create a &amp;lt;500g robot which will play sumo with other robots.&lt;/p&gt;&#xA;&lt;p&gt;i&amp;rsquo;m sadly doing the project solo, but will be getting some help from my friends to compensate.&lt;/p&gt;&#xA;&lt;h4 id=&#34;idea&#34;&gt;idea&lt;/h4&gt;&#xA;&lt;p&gt;i spent most of my time last week learning about professional sumobot competitions, and the strategies that other sumobots use.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 2/24 - 2/28 (new proj)</title>
       <link>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/24-2/28-new-proj/</link>
