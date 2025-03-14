@@ -9,7 +9,7 @@
 <meta name="description" content="long blog post because we didn&rsquo;t really do much last week, so i&rsquo;m cramming everyhting into this blog post.
 we started the sumobot project, where we have to create a &lt;500g robot which will play sumo with other robots.
 i&rsquo;m sadly doing the project solo, but will be getting some help from my friends to compensate.
-idea i spent most of my time last week learning about professional sumobot competitions, and the strategies that other sumobots use.
+idea last week, i spent most of my time researching professional sumobot competitions and studying the strategies used by other robots.
 " />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
@@ -45,10 +45,10 @@ idea i spent most of my time last week learning about professional sumobot compe
   <meta itemprop="description" content="long blog post because we didn’t really do much last week, so i’m cramming everyhting into this blog post.
 we started the sumobot project, where we have to create a &lt;500g robot which will play sumo with other robots.
 i’m sadly doing the project solo, but will be getting some help from my friends to compensate.
-idea i spent most of my time last week learning about professional sumobot competitions, and the strategies that other sumobots use.">
+idea last week, i spent most of my time researching professional sumobot competitions and studying the strategies used by other robots.">
   <meta itemprop="datePublished" content="2025-03-13T00:00:00+00:00">
   <meta itemprop="dateModified" content="2025-03-13T00:00:00+00:00">
-  <meta itemprop="wordCount" content="1083">
+  <meta itemprop="wordCount" content="563">
   <meta itemprop="keywords" content="Blog,Sumobot">
 
   <meta name="twitter:card" content="summary">
@@ -56,7 +56,7 @@ idea i spent most of my time last week learning about professional sumobot compe
   <meta name="twitter:description" content="long blog post because we didn’t really do much last week, so i’m cramming everyhting into this blog post.
 we started the sumobot project, where we have to create a &lt;500g robot which will play sumo with other robots.
 i’m sadly doing the project solo, but will be getting some help from my friends to compensate.
-idea i spent most of my time last week learning about professional sumobot competitions, and the strategies that other sumobots use.">
+idea last week, i spent most of my time researching professional sumobot competitions and studying the strategies used by other robots.">
 
 
 
@@ -133,7 +133,7 @@ idea i spent most of my time last week learning about professional sumobot compe
           <circle cx="12" cy="12" r="10"></circle>
           <polyline points="12 6 12 12 16 14"></polyline>
         </svg>
-        6 minutes
+        3 minutes
         
       </p>
     </div>
@@ -154,26 +154,29 @@ idea i spent most of my time last week learning about professional sumobot compe
 <p>we started the sumobot project, where we have to create a &lt;500g robot which will play sumo with other robots.</p>
 <p>i&rsquo;m sadly doing the project solo, but will be getting some help from my friends to compensate.</p>
 <h4 id="idea">idea</h4>
-<p>i spent most of my time last week learning about professional sumobot competitions, and the strategies that other sumobots use.</p>
-<p>furthermore, as many robots will be running with similar hardware, by utilizing a different design, i have a brief idea on how other robots will run, and created strategies to counteract theirs.</p>
+<p>last week, i spent most of my time researching professional sumobot competitions and studying the strategies used by other robots.</p>
+<p>since many robots will likely use similar hardware, i decided to focus on a unique design. this gives me an idea of how other robots might operate and allows me to develop strategies to counter them.</p>
 <h4 id="motors">motors</h4>
-<p>opting for plastic motors like many others gave me two options to pick between. 120:1 and 200:1. after doing some research on each type of motor, i ultimately decided on 200:1. this is because 200:1 sacrafices some speed for more torque, as the robots are so light, i assume torque will be more important than speed.
+<p>i had two options for plastic motors: 120:1 and 200:1. after some research, i chose the 200:1 motors because they sacrifice speed for more torque. since the robots are lightweight, i think torque will be more important than speed.
 <img src="/img/soph/8/motor.jpeg" alt="website"></p>
-<p>after soldering one of the motors, i realized that another one of my motors was faster than the other, so i decided to solder another motor to deal with this.</p>
+<p>after soldering one of the motors, i noticed that the other motor was faster, so i soldered another one to balance them out.</p>
 <h4 id="sensors">sensors</h4>
-<p>originally, i was going to use a irs21b ir sensor, but i got lazy and didn&rsquo;t want to calibrate it, so me and my friends decided to use roller lever switches instead. also, i heard that some people would make their sumobot white to try and throw off the ir sensor&rsquo;s on the robot.
-<img src="/img/soph/8/switch.jpeg" alt="website"></p>
-<p>i wrote some code to move my sumobot based on three states:
-if the left sensor is detected, it&rsquo;ll move right
-if the right sensor is detected, it&rsquo;ll move left
-and if both sensors are detected it&rsquo;ll do a star pattern to avoid being pushed off.</p>
+<p>initially, i planned to use an irs21b ir sensor, but i decided against it because i didn’t want to deal with calibration. instead, my friends and i opted for roller lever switches. i also heard that some people paint their sumobots white to confuse ir sensors, so this seemed like a better choice.</p>
+<p><img src="/img/soph/8/switch.jpeg" alt="website"></p>
+<p>i wrote code to control the sumobot based on three states:</p>
+<pre><code>if the left sensor is triggered, it moves right.
+
+if the right sensor is triggered, it moves left.
+
+if both sensors are triggered, it performs a star pattern to avoid being pushed off.
+</code></pre>
 <p><img src="/img/soph/8/star_pattern.gif" alt="website"></p>
 <h6 id="hopefully-something-like-this-will-have-to-create-a-body-to-test-my-code">hopefully something like this. will have to create a body to test my code.</h6>
 <h4 id="circuit-board">circuit board</h4>
 <p><img src="/img/soph/8/circuit.jpg" alt="website"></p>
 <h6 id="yes-this-is-a-mess-itll-be-cleaned-later">yes this is a mess. it&rsquo;ll be cleaned later.</h6>
-<p>metromini for my microcontroller, md17a to control the motors, two motors, two roller lever switches, and two buttons to initalize two different start sequences depending on which side of the arena it starts in.</p>
-<p>i&rsquo;ll be starting to create the pcb soon, unless i add something later (which i will mention further down)</p>
+<p>the circuit includes a metromini as the microcontroller, an md17a to control the motors, two motors, two roller lever switches, and two buttons to initialize different start sequences depending on which side of the arena the robot starts on.</p>
+<p>i’ll start designing the pcb soon, unless i decide to add more components later (more on that below).</p>
 <h4 id="code">code</h4>
 <p><img src="/img/soph/8/directions.png" alt="website">
 i created different functions depending on what direction the robot will have to move (left, right, forward, backwards(eventually), and stop).</p>
@@ -182,45 +185,12 @@ i created different functions depending on what direction the robot will have to
 <img src="/img/soph/8/skill_issue.gif" alt="website"></p>
 <h6 id="something-like-this-hopefully-but-im-assuming-that-they-will-be-able-to-detect-the-white-line-and-my-robot-will-push-them-as-a-result">something like this hopefully, but i&rsquo;m assuming that they will be able to detect the white line, and my robot will push them as a result.</h6>
 <h4 id="future-plans">future plans?</h4>
-<p>i want to implement some sort of collapsable wings, so that it fits within the requirements of the sumobot, but can expand wings to potentially throw off anyone who uses an ir sensor at the front.
-<img src="/img/soph/8/wings.png" alt="website"></p>
+<p>i’m considering adding collapsible wings to my sumobot. this would allow it to meet the size requirements while expanding during the match to potentially confuse opponents using front-mounted ir sensors.</p>
+<p><img src="/img/soph/8/wings.gif" alt="website"></p>
 <h6 id="something-like-this-but-collapsable">something like this, but collapsable.</h6>
 <p>furthermore, my code is also broken, where my roller lever sensors when only one is clicked doesn&rsquo;t work. this will be something i have to fix. in addition, i don&rsquo;t know if my code even works, as i haven&rsquo;t made a body or wheels for my sumobot.</p>
 <p>we started the sumobot project, where we have to create a &lt;500g robot which will play sumo with other robots.</p>
 <p>i&rsquo;m sadly doing the project solo, but will be getting some help from my friends to compensate.</p>
-<h4 id="idea-1">idea</h4>
-<p>i spent most of my time last week learning about professional sumobot competitions, and the strategies that other sumobots use.</p>
-<p>furthermore, as many robots will be running with similar hardware, by utilizing a different design, i have a brief idea on how other robots will run, and created strategies to counteract theirs.</p>
-<h4 id="motors-1">motors</h4>
-<p>opting for plastic motors like many others gave me two options to pick between. 120:1 and 200:1. after doing some research on each type of motor, i ultimately decided on 200:1. this is because 200:1 sacrafices some speed for more torque, as the robots are so light, i assume torque will be more important than speed.
-<img src="/img/soph/8/motor.jpeg" alt="website"></p>
-<p>after soldering one of the motors, i realized that another one of my motors was faster than the other, so i decided to solder another motor to deal with this.</p>
-<h4 id="sensors-1">sensors</h4>
-<p>originally, i was going to use a irs21b ir sensor, but i got lazy and didn&rsquo;t want to calibrate it, so me and my friends decided to use roller lever switches instead. also, i heard that some people would make their sumobot white to try and throw off the ir sensor&rsquo;s on the robot.
-<img src="/img/soph/8/switch.jpeg" alt="website"></p>
-<p>i wrote some code to move my sumobot based on three states:
-if the left sensor is detected, it&rsquo;ll move right
-if the right sensor is detected, it&rsquo;ll move left
-and if both sensors are detected it&rsquo;ll do a star pattern to avoid being pushed off.</p>
-<p><img src="/img/soph/8/star_pattern.gif" alt="website"></p>
-<h6 id="hopefully-something-like-this-will-have-to-create-a-body-to-test-my-code-1">hopefully something like this. will have to create a body to test my code.</h6>
-<h4 id="circuit-board-1">circuit board</h4>
-<p><img src="/img/soph/8/circuit.jpg" alt="website"></p>
-<h6 id="yes-this-is-a-mess-itll-be-cleaned-later-1">yes this is a mess. it&rsquo;ll be cleaned later.</h6>
-<p>metromini for my microcontroller, md17a to control the motors, two motors, two roller lever switches, and two buttons to initalize two different start sequences depending on which side of the arena it starts in.</p>
-<p>i&rsquo;ll be starting to create the pcb soon, unless i add something later (which i will mention further down)</p>
-<h4 id="code-1">code</h4>
-<p><img src="/img/soph/8/directions.png" alt="website">
-i created different functions depending on what direction the robot will have to move (left, right, forward, backwards(eventually), and stop).</p>
-<p>in addition, i created specific sequences and patterns depending on sensor state and which button is clicked. startL and startR will wait for the enemy sumobot, and attack them when they go forward towards the edge of the arena.
-<img src="/img/soph/8/special.png" alt="website">
-<img src="/img/soph/8/skill_issue.gif" alt="website"></p>
-<h5 id="something-like-this-hopefully-but-im-assuming-that-they-will-be-able-to-detect-the-white-line-and-my-robot-will-push-them-as-a-result-1">something like this hopefully, but i&rsquo;m assuming that they will be able to detect the white line, and my robot will push them as a result.</h5>
-<h4 id="future-plans-1">future plans?</h4>
-<p>i want to implement some sort of collapsable wings, so that it fits within the requirements of the sumobot, but can expand wings to potentially throw off anyone who uses an ir sensor at the front.
-<img src="/img/soph/8/wings.png" alt="website"></p>
-<h5 id="something-like-this-but-collapsable-1">something like this, but collapsable.</h5>
-<p>furthermore, my code is also broken, where my roller lever sensors when only one is clicked doesn&rsquo;t work. this will be something i have to fix. in addition, i don&rsquo;t know if my code even works, as i haven&rsquo;t made a body or wheels for my sumobot.</p>
 
       </div>
     </article>
@@ -247,7 +217,7 @@ i created different functions depending on what direction the robot will have to
           <line x1="16" y1="17" x2="8" y2="17"></line>
           <polyline points="10 9 9 9 8 9"></polyline>
         </svg>
-        1083 Words
+        563 Words
       </p>
 
       <p>
