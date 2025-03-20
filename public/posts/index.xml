@@ -5,8 +5,40 @@
         <description>Recent content in Posts on andrew huang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://andrewhuang.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>soph week 3/17 - 3/21</title>
+            <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</link>
+            <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</guid>
+            <description>&lt;p&gt;i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.&lt;/p&gt;
+&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/9/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;
+&lt;p&gt;above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.&lt;/p&gt;
+&lt;p&gt;another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.</p>
+<h4 id="schematic-of-the-board">schematic of the board</h4>
+<p><img src="/img/soph/9/schem.png" alt="website"></p>
+<p>above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.</p>
+<p>another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.</p>
+<h4 id="pcb">pcb</h4>
+<p><img src="/img/soph/9/2d.png" alt="website"></p>
+<p>the component placement isn’t ideal, which forced me to rewire parts of the schematic and pcb to make the traces work. because of this, i also had to adjust some pins in my code to account for the changes. i’ll mill the pcb once i have a body to test it with.</p>
+<h4 id="3d-pcb">3d pcb.</h4>
+<p><img src="/img/soph/9/3d.png" alt="website"></p>
+<h6 id="rough-image-of-what-my-final-pcb-will-look-like">rough image of what my final pcb will look like</h6>
+<h4 id="code-edits">code edits</h4>
+<p><img src="/img/soph/9/sen_fix.png" alt="website">
+besides fixing the pin assignments in my code, i also resolved an issue from last week. previously, the individual sensors wouldn’t work on their own and only functioned when both were activated. my friend miles pointed out that i only needed to read the state of one sensor instead of both.</p>
+<p>this fix allowed each sensor to work independently, and now all the fail-safes function correctly—whether one or both sensors are triggered.</p>
+<p><img src="/img/soph/9/backwards.png" alt="website">
+last week, i mentioned needing to implement a backward function for the sumobot. i realized that with the current star pattern implementation, the robot would move forward instead of backward. i quickly added a backward function and replaced the forward call with it.</p>
+<p>next steps: my friend jonas is working on the body and tires, which i’ll use to test my code and sensors. this will help me identify any errors or adjustments needed before the final assembly.</p>
+]]></content>
+        </item>
         
         <item>
             <title>soph week 3/3 - 3/14 (sumobot)</title>

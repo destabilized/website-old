@@ -6,8 +6,15 @@
     <description>Recent content on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 3/17 - 3/21</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</guid>
+      <description>&lt;p&gt;i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/9/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.&lt;/p&gt;&#xA;&lt;p&gt;another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 3/3 - 3/14 (sumobot)</title>
       <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/</link>
