@@ -2,60 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://andrewhuang.vercel.app/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/blog/</loc>
+    <loc>https://andrewhuang.vercel.app/categories/blog/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://andrewhuang.vercel.app/categories/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/03/soph-week-3/17-3/21/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/sumobot/</loc>
+    <loc>https://andrewhuang.vercel.app/categories/sumobot/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/03/soph-week-3/3-3/14-sumobot/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/</loc>
     <lastmod>2025-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/02/soph-week-2/24-2/28-new-proj/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/24-2/28-new-proj/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/zeromouse/</loc>
+    <loc>https://andrewhuang.vercel.app/categories/zeromouse/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/lightbox/</loc>
+    <loc>https://andrewhuang.vercel.app/categories/lightbox/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/soph-week-1/27-1/31/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/27-1/31/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/soph-week-1/20-1/24/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/20-1/24/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/soph-week-1/13-1/17/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/13-1/17/</loc>
     <lastmod>2025-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/2-1/10/</loc>
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/</loc>
+    <loc>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://andrewhuang.vercel.app/projects/</loc>
     <lastmod>2024-12-12T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://andrewhuang.vercel.app/about/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://andrewhuang.vercel.app/tags/</loc>
   </url>
 </urlset>
