@@ -5,8 +5,46 @@
         <description>Recent content in Posts on andrew huang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://andrewhuang.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>soph week 3/24 - 3/28</title>
+            <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</link>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</guid>
+            <description>&lt;p&gt;slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.&lt;/p&gt;
+&lt;h4 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/10/pcb_fixed.png&#34; alt=&#34;website&#34;&gt;
+during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&amp;rsquo;t have any shorts now.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.</p>
+<h4 id="sumobot-updates">sumobot updates</h4>
+<p><img src="/img/soph/10/pcb_fixed.png" alt="website">
+during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&rsquo;t have any shorts now.</p>
+<p>jonas (my partner) also printed the pcb holder for our sumobot, so i&rsquo;ll be milling the board soon.</p>
+<h4 id="zeromouse">zeromouse</h4>
+<p>in my previous blogpost on the zeromouse, there were a bunch of errors that i had to deal with this week</p>
+<ol>
+<li>the size is really short&hellip; like way shorter than i thought</li>
+<li>the standoffs for the pcb aren&rsquo;t aligned properly (mainly because i suck at measuring)</li>
+<li>the holder for the sensor was a bit small, and there was only one layer of print for it</li>
+</ol>
+<p>i started by resizing and cleaning up the frame design:</p>
+<div style="display: flex;">  
+  <img style="width: 45%;" src="/img/soph/10/new_sketch.png">
+  <img style="width: 45%;" src="/img/soph/10/old.png">
+</div>
+<h6 id="new-vs-old-new-on-the-left-side">new vs old. new on the left side</h6>
+<p>i also tried a new standoff design since i didn&rsquo;t like the bulky filled lines from before, while hopefully fixing the alignment issues.</p>
+<p>the sensor mount isn&rsquo;t added yet, but i&rsquo;m using a thicker shell to avoid the structural problems from last time.</p>
+<div style="display: flex;">  
+  <img style="width: 45%;" src="/img/soph/10/withoutpcb.png">
+  <img style="width: 45%;" src="/img/soph/10/withpcb.png">
+</div>
+<p>hopefully next week i&rsquo;ll have a test body and wheels for the sumobot, and i can test print this new mouse shell.</p>
+]]></content>
+        </item>
         
         <item>
             <title>soph week 3/17 - 3/21</title>

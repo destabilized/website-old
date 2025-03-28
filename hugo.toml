@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = "andrew huang"
 theme = 'hello-friend-ng'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 

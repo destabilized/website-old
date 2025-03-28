@@ -6,8 +6,15 @@
     <description>Recent content in Sumobot on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/categories/sumobot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 3/24 - 3/28</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</guid>
+      <description>&lt;p&gt;slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/10/pcb_fixed.png&#34; alt=&#34;website&#34;&gt;&#xA;during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&amp;rsquo;t have any shorts now.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 3/17 - 3/21</title>
       <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</link>

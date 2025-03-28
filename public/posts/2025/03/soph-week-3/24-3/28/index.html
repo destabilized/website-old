@@ -6,19 +6,18 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="author" content="">
-<meta name="description" content="i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.
-schematic of the board above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.
-another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.
+<meta name="description" content="slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.
+sumobot updates during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&rsquo;t have any shorts now.
 " />
 <meta name="keywords" content="" />
 <meta name="robots" content="noodp" />
 <meta name="theme-color" content="" />
-<link rel="canonical" href="https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/" />
+<link rel="canonical" href="https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/" />
 
 
     <title>
         
-            soph week 3/17 - 3/21 
+            soph week 3/24 - 3/28 
         
     </title>
 
@@ -40,20 +39,18 @@ another challenge was finding the footprint for the md17a or the drv8833 motor d
 
 
 
-  <meta itemprop="name" content="soph week 3/17 - 3/21">
-  <meta itemprop="description" content="i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.
-schematic of the board above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.
-another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.">
-  <meta itemprop="datePublished" content="2025-03-20T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2025-03-20T00:00:00+00:00">
-  <meta itemprop="wordCount" content="315">
-  <meta itemprop="keywords" content="Blog,Sumobot">
+  <meta itemprop="name" content="soph week 3/24 - 3/28">
+  <meta itemprop="description" content="slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.
+sumobot updates during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn’t have any shorts now.">
+  <meta itemprop="datePublished" content="2025-03-27T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-03-27T00:00:00+00:00">
+  <meta itemprop="wordCount" content="236">
+  <meta itemprop="keywords" content="Blog,Sumobot,Zeromouse">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="soph week 3/17 - 3/21">
-  <meta name="twitter:description" content="i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.
-schematic of the board above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.
-another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.">
+  <meta name="twitter:title" content="soph week 3/24 - 3/28">
+  <meta name="twitter:description" content="slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.
+sumobot updates during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn’t have any shorts now.">
 
 
 
@@ -63,9 +60,11 @@ another challenge was finding the footprint for the md17a or the drv8833 motor d
 
     <meta property="article:section" content="sumobot" />
 
+    <meta property="article:section" content="zeromouse" />
 
 
-    <meta property="article:published_time" content="2025-03-20 00:00:00 &#43;0000 UTC" />
+
+    <meta property="article:published_time" content="2025-03-27 00:00:00 &#43;0000 UTC" />
 
 
 
@@ -137,7 +136,7 @@ another challenge was finding the footprint for the md17a or the drv8833 motor d
 
     <article>
       <h1 class="post-title">
-        <a href="https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/">soph week 3/17 - 3/21</a>
+        <a href="https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/">soph week 3/24 - 3/28</a>
       </h1>
 
       
@@ -147,24 +146,31 @@ another challenge was finding the footprint for the md17a or the drv8833 motor d
       
 
       <div class="post-content">
-        <p>i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.</p>
-<h4 id="schematic-of-the-board">schematic of the board</h4>
-<p><img src="/img/soph/9/schem.png" alt="website"></p>
-<p>above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.</p>
-<p>another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.</p>
-<h4 id="pcb">pcb</h4>
-<p><img src="/img/soph/9/2d.png" alt="website"></p>
-<p>the component placement isn’t ideal, which forced me to rewire parts of the schematic and pcb to make the traces work. because of this, i also had to adjust some pins in my code to account for the changes. i’ll mill the pcb once i have a body to test it with.</p>
-<h4 id="3d-pcb">3d pcb.</h4>
-<p><img src="/img/soph/9/3d.png" alt="website"></p>
-<h6 id="rough-image-of-what-my-final-pcb-will-look-like">rough image of what my final pcb will look like</h6>
-<h4 id="code-edits">code edits</h4>
-<p><img src="/img/soph/9/sen_fix.png" alt="website">
-besides fixing the pin assignments in my code, i also resolved an issue from last week. previously, the individual sensors wouldn’t work on their own and only functioned when both were activated. my friend miles pointed out that i only needed to read the state of one sensor instead of both.</p>
-<p>this fix allowed each sensor to work independently, and now all the fail-safes function correctly—whether one or both sensors are triggered.</p>
-<p><img src="/img/soph/9/backwards.png" alt="website">
-last week, i mentioned needing to implement a backward function for the sumobot. i realized that with the current star pattern implementation, the robot would move forward instead of backward. i quickly added a backward function and replaced the forward call with it.</p>
-<p>next steps: my friend jonas is working on the body and tires, which i’ll use to test my code and sensors. this will help me identify any errors or adjustments needed before the final assembly.</p>
+        <p>slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.</p>
+<h4 id="sumobot-updates">sumobot updates</h4>
+<p><img src="/img/soph/10/pcb_fixed.png" alt="website">
+during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&rsquo;t have any shorts now.</p>
+<p>jonas (my partner) also printed the pcb holder for our sumobot, so i&rsquo;ll be milling the board soon.</p>
+<h4 id="zeromouse">zeromouse</h4>
+<p>in my previous blogpost on the zeromouse, there were a bunch of errors that i had to deal with this week</p>
+<ol>
+<li>the size is really short&hellip; like way shorter than i thought</li>
+<li>the standoffs for the pcb aren&rsquo;t aligned properly (mainly because i suck at measuring)</li>
+<li>the holder for the sensor was a bit small, and there was only one layer of print for it</li>
+</ol>
+<p>i started by resizing and cleaning up the frame design:</p>
+<div style="display: flex;">  
+  <img style="width: 45%;" src="/img/soph/10/new_sketch.png">
+  <img style="width: 45%;" src="/img/soph/10/old.png">
+</div>
+<h6 id="new-vs-old-new-on-the-left-side">new vs old. new on the left side</h6>
+<p>i also tried a new standoff design since i didn&rsquo;t like the bulky filled lines from before, while hopefully fixing the alignment issues.</p>
+<p>the sensor mount isn&rsquo;t added yet, but i&rsquo;m using a thicker shell to avoid the structural problems from last time.</p>
+<div style="display: flex;">  
+  <img style="width: 45%;" src="/img/soph/10/withoutpcb.png">
+  <img style="width: 45%;" src="/img/soph/10/withpcb.png">
+</div>
+<p>hopefully next week i&rsquo;ll have a test body and wheels for the sumobot, and i can test print this new mouse shell.</p>
 
       </div>
     </article>
@@ -179,6 +185,7 @@ last week, i mentioned needing to implement a backward function for the sumobot.
 
         <span class="tag"><a href="https://andrewhuang.vercel.app/categories/blog/">blog</a></span>
         <span class="tag"><a href="https://andrewhuang.vercel.app/categories/sumobot/">sumobot</a></span>
+        <span class="tag"><a href="https://andrewhuang.vercel.app/categories/zeromouse/">zeromouse</a></span>
         
     </p>
 
@@ -191,7 +198,7 @@ last week, i mentioned needing to implement a backward function for the sumobot.
           <line x1="16" y1="17" x2="8" y2="17"></line>
           <polyline points="10 9 9 9 8 9"></polyline>
         </svg>
-        315 Words
+        236 Words
       </p>
 
       <p>
@@ -202,7 +209,7 @@ last week, i mentioned needing to implement a backward function for the sumobot.
           <line x1="3" y1="10" x2="21" y2="10"></line>
         </svg>
         
-          2025-03-19 20:00
+          2025-03-26 20:00
         
 
          
@@ -217,18 +224,11 @@ last week, i mentioned needing to implement a backward function for the sumobot.
 
         <div class="pagination__buttons">
             
-            <span class="button previous">
-                <a href="https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/">
-                    <span class="button__icon">←</span>
-                    <span class="button__text">soph week 3/24 - 3/28</span>
-                </a>
-            </span>
-            
 
             
             <span class="button next">
-                <a href="https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/">
-                    <span class="button__text">soph week 3/3 - 3/14 (sumobot)</span>
+                <a href="https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/">
+                    <span class="button__text">soph week 3/17 - 3/21</span>
                     <span class="button__icon">→</span>
                 </a>
             </span>
