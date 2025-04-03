@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lightbox on andrew huang</title>
-    <link>https://andrewhuang.vercel.app/categories/lightbox/</link>
+    <link>http://localhost:1313/categories/lightbox/</link>
     <description>Recent content in Lightbox on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andrewhuang.vercel.app/categories/lightbox/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/lightbox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>soph week 2/3 - 2/7 (finished lightbox)</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</link>
+      <link>http://localhost:1313/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</guid>
-      <description>&lt;p&gt;i broke another computer. that makes it the fourth thing i’ve broken this year as a sophomore&amp;hellip; at least i managed to complete my lightbox this week.&lt;/p&gt;&#xA;&lt;p&gt;most of my time was spent 3d printing the enclosure and laser cutting the acrylic piece.&lt;/p&gt;&#xA;&lt;h4 id=&#34;acrylic-piece&#34;&gt;acrylic piece&lt;/h4&gt;&#xA;&lt;p&gt;while the box parts were printing, i continued working on the acrylic design and did a test cut on cardboard to check the fit.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/6/card.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;the initial piece was slightly longer than i wanted, so i scaled it down to make it more compact. the adjusted size looked much better.&#xA;website.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/6/acrylic.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</guid>
+      <description>&lt;p&gt;i broke another computer. that makes it the fourth thing i’ve broken this year as a sophomore&amp;hellip; at least i managed to complete my lightbox this week.&lt;/p&gt;&#xA;&lt;p&gt;most of my time was spent 3d printing the enclosure and laser cutting the acrylic piece.&lt;/p&gt;&#xA;&lt;h4 id=&#34;acrylic-piece&#34;&gt;acrylic piece&lt;/h4&gt;&#xA;&lt;p&gt;while the box parts were printing, i continued working on the acrylic design and did a test cut on cardboard to check the fit.&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/6/card.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;the initial piece was slightly longer than i wanted, so i scaled it down to make it more compact. the adjusted size looked much better.&#xA;website.&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/6/acrylic.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 1/27 - 1/31</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/27-1/31/</link>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/27-1/31/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/27-1/31/</guid>
-      <description>&lt;p&gt;i should be able to finish my lightbox by next week. just a few more tasks left to complete.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/5/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while preparing to mill my pcb, mr. christy suggested that using power and ground symbols would help clean up my schematic. i also ran into some issues during the milling process because i used incorrect components, as i hadn’t taken the time to set up an electronic library.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/27-1/31/</guid>
+      <description>&lt;p&gt;i should be able to finish my lightbox by next week. just a few more tasks left to complete.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/5/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while preparing to mill my pcb, mr. christy suggested that using power and ground symbols would help clean up my schematic. i also ran into some issues during the milling process because i used incorrect components, as i hadn’t taken the time to set up an electronic library.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 1/20 - 1/24</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/20-1/24/</link>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/20-1/24/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/20-1/24/</guid>
-      <description>&lt;p&gt;slightly shorter week due to mlk day, so i focused more on double checking everything rather than starting something new.&lt;/p&gt;&#xA;&lt;h4 id=&#34;box-design-completed&#34;&gt;box design (completed?)&lt;/h4&gt;&#xA;&lt;p&gt;i first created the lid for my box, which utilizes friction-fit, eliminating the need to use screws to keep the aesthetics clean.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/4/lid.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;additionally, i designed a separate compartment to house my neopixel. i previously had the component connected with my lid, but that would lead to overhang when printing. by creating it as a new component, i will have to print them separately, and combine them together.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/20-1/24/</guid>
+      <description>&lt;p&gt;slightly shorter week due to mlk day, so i focused more on double checking everything rather than starting something new.&lt;/p&gt;&#xA;&lt;h4 id=&#34;box-design-completed&#34;&gt;box design (completed?)&lt;/h4&gt;&#xA;&lt;p&gt;i first created the lid for my box, which utilizes friction-fit, eliminating the need to use screws to keep the aesthetics clean.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/4/lid.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;additionally, i designed a separate compartment to house my neopixel. i previously had the component connected with my lid, but that would lead to overhang when printing. by creating it as a new component, i will have to print them separately, and combine them together.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 1/13 - 1/17</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/13-1/17/</link>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/13-1/17/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/13-1/17/</guid>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/13-1/17/</guid>
       <description>&lt;p&gt;finally figured out how all the bugs work, and fixed them.&lt;/p&gt;&#xA;&lt;p&gt;another week of the lightbox project, where i spent monday finalizing my code, before working purely on my box design.&lt;/p&gt;&#xA;&lt;h4 id=&#34;box-design&#34;&gt;box design&lt;/h4&gt;&#xA;&lt;p&gt;i started this week by restarting my entire box, as i previously didn&amp;rsquo;t have my box cenetered around the origin, and i was building it on the wrong axis. additionally, the dimensions were all messed up, as i was using a wrong scale. upon fixing all my mistakes, i started adding in all of the different type of connection ports on the mac mini. these ports won&amp;rsquo;t have any functionality besides one, which will be used for powering the lightbox.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 1/2 - 1/10</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/2-1/10/</link>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/2-1/10/</guid>
-      <description>&lt;p&gt;new years, same bugs.&lt;/p&gt;&#xA;&lt;p&gt;due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.&lt;/p&gt;&#xA;&lt;p&gt;i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.&lt;/p&gt;&#xA;&lt;h4 id=&#34;2d-model-of-my-pcb&#34;&gt;2d model of my pcb&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/2/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible. i may redesign the board to use a type-c connector for power to better fit my design&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/</guid>
+      <description>&lt;p&gt;new years, same bugs.&lt;/p&gt;&#xA;&lt;p&gt;due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.&lt;/p&gt;&#xA;&lt;p&gt;i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.&lt;/p&gt;&#xA;&lt;h4 id=&#34;2d-model-of-my-pcb&#34;&gt;2d model of my pcb&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/2/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible. i may redesign the board to use a type-c connector for power to better fit my design&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 12/16 - 12/20</title>
-      <link>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</link>
+      <link>http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</guid>
+      <guid>http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/</guid>
       <description>&lt;p&gt;this week was all about lightbox project, where i had lots of issues.&lt;/p&gt;&#xA;&lt;p&gt;generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84&lt;/p&gt;&#xA;&lt;p&gt;orignally, i was planning to use an attiny25, as the shop doesn&amp;rsquo;t have an attiny85&amp;rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.&lt;/p&gt;</description>
     </item>
   </channel>
