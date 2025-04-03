@@ -36,3 +36,17 @@ for my the housing of my lightbox, i decided to use a model of the mac mini, usi
 for the sensor, i decided to use a temperature sensor, which would change the color of the acrylic depending on the temperature. this wasn't the best idea, as the temperature sensor was inside my housing, and would rarely change temperatures
 
 for my acrylic piece, i found a derpy version of froakie, and ended up using that as my acyrlic piece.
+
+## sumobot project
+#### 2025 - now
+
+another hands-on engineering project that's a competition in pairs of two. i partnered with [jonas](https://jonaswirz.wordpress.com/). jonas worked on the cad, while i worked on the hardware.
+
+we had a few restrictions on the sumobot, such as weight and size like normal sumobot competitions. in the end, we had a tournament style with the sumobot to determine who had the best bot.
+
+(image soon when finished?)
+
+## zerømouse
+#### 2025 - now
+
+to be filled with text when i'm not lazy.
