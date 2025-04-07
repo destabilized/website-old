@@ -26,7 +26,7 @@ using pyautogui to write the commands to spawn the pokemon, and pytesseract to d
 
 in the future, i may train a yolo model and allow the script to solve captcha images which the pokemeow bot provides if it detects that you may potentially be botting, making the script fully autonomous. 
 
-## lightbox project
+## [lightbox project](https://andrewhuang.vercel.app/categories/lightbox/)
 #### 2025
 
 the lightbox project is a hands-on engineering project that is required for sophomore students where they will design and build a lightbox from scratch. in this project, students will incorperate a housing for a box, and some sort of sensor mechanism to illuminate a custom acrylic piece. 
