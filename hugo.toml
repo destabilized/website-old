@@ -13,7 +13,7 @@ theme = 'hello-friend-ng'
   posts = "/posts/:year/:month/:title/"
 
 [params]
-homeSubtitle = "monkey given a computer"
+homeSubtitle = "current projects: <a href='https://andrewhuang.vercel.app/categories/zeromouse/'> zeromouse</a> and <a href='https://andrewhuang.vercel.app/categories/sumobot/'>sumobot</a>. <br> <br>"
 
   [[params.social]]
     name = "email"
