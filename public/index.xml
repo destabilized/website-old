@@ -6,8 +6,15 @@
     <description>Recent content on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 4/7 - 4/10</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</guid>
+      <description>&lt;h3 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h3&gt;&#xA;&lt;p&gt;jonas finally worked on the body, only to lose most of the progress (fun). despite this, we managed to mill the pcb and 3d print the main shell, so not much was lost. miles soldered all the components, so now we just need to test everything and do a trial run soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/12/pcb.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;one issue is that our sensors might not get fully pressed due to the robot&amp;rsquo;s light weight. this could be problematic since the code depends on complete sensor presses - when released, they&amp;rsquo;re supposed to adjust positioning based on which sensor was activated. hopefully with the battery and the other parts, we won&amp;rsquo;t have this issue.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 4/1 - 4/4</title>
       <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/1-4/4/</link>
