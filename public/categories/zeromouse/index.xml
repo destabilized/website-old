@@ -6,8 +6,15 @@
     <description>Recent content in Zeromouse on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/categories/zeromouse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 4/14 - 4/18</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/14-4/18/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/14-4/18/</guid>
+      <description>&lt;p&gt;short post since i won&amp;rsquo;t be here tomorrow. made good progress this week though.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;finally added the &amp;ldquo;wings&amp;rdquo; i mentioned last week.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/13/full_3d.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;this completes the mouse shell design. still need to figure out trigger attachment (more below), though resin printing might make that unnecessary. my initial attachment idea didn&amp;rsquo;t work well.&lt;/p&gt;&#xA;&lt;h4 id=&#34;printed&#34;&gt;printed&lt;/h4&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/full.jpeg&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/triggers.jpeg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;tried using small stands and pegs to attach the triggers, but they were too thin (.95mm) and fragile - broke with slight pressure. the holes also came out weird.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 4/7 - 4/10</title>
       <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</link>
