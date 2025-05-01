@@ -5,8 +5,64 @@
         <description>Recent content in Posts on andrew huang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://andrewhuang.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>soph week 4/28 - 5/2</title>
+            <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-4/28-5/2/</link>
+            <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-4/28-5/2/</guid>
+            <description>&lt;p&gt;missed monday, so progress was limited this week.&lt;/p&gt;
+&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;
+&lt;p&gt;after testing the 3d printed wings, the gap between them felt awkward, so i merged them into a single piece.&lt;/p&gt;
+&lt;div style=&#34;display: flex;&#34;&gt;  
+  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/full_3d.png&#34;&gt;
+  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/14/shell_new.PNG&#34;&gt;
+&lt;/div&gt;
+&lt;h6 id=&#34;comparison-original-wings-left-vs-new-merged-design-right&#34;&gt;comparison: original wings (left) vs new merged design (right)&lt;/h6&gt;
+&lt;p&gt;also reintroduced trigger stands with larger pegs for better durability. added small rectangular blockers to the pcb stands to prevent movement - these should lock the pcb in place while allowing removal.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>missed monday, so progress was limited this week.</p>
+<h4 id="wings">wings</h4>
+<p>after testing the 3d printed wings, the gap between them felt awkward, so i merged them into a single piece.</p>
+<div style="display: flex;">  
+  <img style="width: 45%;" src="/img/soph/13/full_3d.png">
+  <img style="width: 45%;" src="/img/soph/14/shell_new.PNG">
+</div>
+<h6 id="comparison-original-wings-left-vs-new-merged-design-right">comparison: original wings (left) vs new merged design (right)</h6>
+<p>also reintroduced trigger stands with larger pegs for better durability. added small rectangular blockers to the pcb stands to prevent movement - these should lock the pcb in place while allowing removal.</p>
+<p>test prints of the updated shell and triggers:</p>
+<div style="display: flex;">  
+  <img style="width: 45%;" src="/img/soph/14/prints.jpeg">
+  <img style="width: 45%;" src="/img/soph/14/shellwithpcb.jpeg">
+</div>
+<h4 id="trigger-adjustments">trigger adjustments</h4>
+<p><img src="/img/soph/14/triggers.PNG" alt="website"></p>
+<p>fixed the length miscalculation (eyeballed ~2mm {which is still too small}) from last print (though forgot to implement before printing). also modified the angle to reduce overhang, which slightly decreased the button surface area.</p>
+<p>had to relocate the stands to accommodate these changes - hopefully this doesn&rsquo;t cause issues later.</p>
+<h4 id="solder-fail">solder fail</h4>
+<div style="display: flex;">  
+  <img style="width: 45%;" src="/img/soph/14/soulderback.jpeg">
+  <img style="width: 45%;" src="/img/soph/14/soulderfront.jpeg">
+</div>
+attempted to resolder the pcb for sensor testing with poor results:
+<pre><code>- difficulty attaching wires to small holes
+
+- solder refused to adhere to wire insulation
+
+- burned both the pcb and wire insulation
+
+- final result non-functional
+</code></pre>
+<p>thankfully my friend <a href="https://www.mileshilliard.com/">miles</a> offered to help with resoldering. hoping the pcb isn&rsquo;t permanently damaged. (thank you so much)</p>
+<h4 id="errors-to-fix">errors to fix?</h4>
+<p>in order to add the stands to stabilize the pcb, i had to increase the length of the original stands a lot, resulting in the led potentially being too high and not hitting the sensor block</p>
+<p>this is gonna be something i have to check over when i get a working usb wire (hopefully my board still works) which may take a bit</p>
+<p>additionally i&rsquo;m hoping that the mouse triggers and shell with the stands are able to print without any blemishes or major imperfections.</p>
+<p>besides putting it all together and testing, i&rsquo;m slowly creeping closer to finishing this project.</p>
+]]></content>
+        </item>
         
         <item>
             <title>soph week 4/14 - 4/18</title>

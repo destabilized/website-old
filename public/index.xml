@@ -6,8 +6,15 @@
     <description>Recent content on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 4/28 - 5/2</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-4/28-5/2/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-4/28-5/2/</guid>
+      <description>&lt;p&gt;missed monday, so progress was limited this week.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;after testing the 3d printed wings, the gap between them felt awkward, so i merged them into a single piece.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/full_3d.png&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/14/shell_new.PNG&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;h6 id=&#34;comparison-original-wings-left-vs-new-merged-design-right&#34;&gt;comparison: original wings (left) vs new merged design (right)&lt;/h6&gt;&#xA;&lt;p&gt;also reintroduced trigger stands with larger pegs for better durability. added small rectangular blockers to the pcb stands to prevent movement - these should lock the pcb in place while allowing removal.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>soph week 4/14 - 4/18</title>
       <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/14-4/18/</link>
