@@ -18,17 +18,17 @@
 &lt;p&gt;slow week because of ap tests, health, and a half day from monday - wednesday, but whatever.&lt;/p&gt;
 &lt;h4 id=&#34;restarting-so-fun&#34;&gt;restarting! (so fun!)&lt;/h4&gt;
 &lt;p&gt;so. i never decided to test my shells with the scroll wheel for some reason, but i eventually decided to, just to realize that i made a major mistake.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/15/error.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/15/error.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
             <content type="html"><![CDATA[<p>had to restart because of an error i made a while ago that i should&rsquo;ve noticed and addressed earlier&hellip;. whoops.</p>
 <p>slow week because of ap tests, health, and a half day from monday - wednesday, but whatever.</p>
 <h4 id="restarting-so-fun">restarting! (so fun!)</h4>
 <p>so. i never decided to test my shells with the scroll wheel for some reason, but i eventually decided to, just to realize that i made a major mistake.</p>
-<p><img src="/img/soph/15/error.png" alt="website"></p>
+<p><img src="/img/soph/15/error.jpeg" alt="website"></p>
 <p>as seen in the image above, the scroll wheel rests around the center of the mouse, not near the front where i intended. this is because due to the mouse triggers i was using, i had to move the pcb location a bit back to be able to click the button, but as a result, the scroll wheel moved back a lot.</p>
 <p>as a result, i&rsquo;m going to have to change up the design of the mouse buttons, ultimately causing me to change my frame as well.</p>
 <h4 id="pcb-stuff">pcb stuff</h4>
 <p><a href="https://www.mileshilliard.com/">miles</a> decided to fix my pcb thankfully, and now it works again</p>
-<p><img src="/img/soph/15/pcb-back.png" alt="website"></p>
+<p><img src="/img/soph/15/pcb-back.jpeg" alt="website"></p>
 <p>some of the wires did have to be soulder somewhere else as i burnt the traces, and superglue was used to hold the wires together.</p>
 <p>with this updated fix, despite having a faulty shell, i was able to test some other concerns i had</p>
 <video width="640" height="360" controls>
