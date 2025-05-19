@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on andrew huang</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://andrewhuang.vercel.app/categories/</link>
     <description>Recent content in Categories on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andrewhuang.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/categories/blog/</link>
+      <link>https://andrewhuang.vercel.app/categories/blog/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/blog/</guid>
+      <guid>https://andrewhuang.vercel.app/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Sumobot</title>
-      <link>http://localhost:1313/categories/sumobot/</link>
+      <link>https://andrewhuang.vercel.app/categories/sumobot/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/sumobot/</guid>
+      <guid>https://andrewhuang.vercel.app/categories/sumobot/</guid>
       <description></description>
     </item>
     <item>
       <title>Zeromouse</title>
-      <link>http://localhost:1313/categories/zeromouse/</link>
+      <link>https://andrewhuang.vercel.app/categories/zeromouse/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/zeromouse/</guid>
+      <guid>https://andrewhuang.vercel.app/categories/zeromouse/</guid>
       <description></description>
     </item>
     <item>
       <title>Lightbox</title>
-      <link>http://localhost:1313/categories/lightbox/</link>
+      <link>https://andrewhuang.vercel.app/categories/lightbox/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/lightbox/</guid>
+      <guid>https://andrewhuang.vercel.app/categories/lightbox/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zeromouse on andrew huang</title>
-    <link>http://localhost:1313/categories/zeromouse/</link>
+    <link>https://andrewhuang.vercel.app/categories/zeromouse/</link>
     <description>Recent content in Zeromouse on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/zeromouse/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://andrewhuang.vercel.app/categories/zeromouse/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>soph week 5/05 - 5/09</title>
-      <link>http://localhost:1313/posts/2025/05/soph-week-5/05-5/09/</link>
+      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/05-5/09/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/05/soph-week-5/05-5/09/</guid>
-      <description>&lt;p&gt;had to restart because of an error i made a while ago that i should&amp;rsquo;ve noticed and addressed earlier&amp;hellip;. whoops.&lt;/p&gt;&#xA;&lt;p&gt;slow week because of ap tests, health, and a half day from monday - wednesday, but whatever.&lt;/p&gt;&#xA;&lt;h4 id=&#34;restarting-so-fun&#34;&gt;restarting! (so fun!)&lt;/h4&gt;&#xA;&lt;p&gt;so. i never decided to test my shells with the scroll wheel for some reason, but i eventually decided to, just to realize that i made a major mistake.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/15/error.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/05-5/09/</guid>
+      <description>&lt;p&gt;had to restart because of an error i made a while ago that i should&amp;rsquo;ve noticed and addressed earlier&amp;hellip;. whoops.&lt;/p&gt;&#xA;&lt;p&gt;slow week because of ap tests, health, and a half day from monday - wednesday, but whatever.&lt;/p&gt;&#xA;&lt;h4 id=&#34;restarting-so-fun&#34;&gt;restarting! (so fun!)&lt;/h4&gt;&#xA;&lt;p&gt;so. i never decided to test my shells with the scroll wheel for some reason, but i eventually decided to, just to realize that i made a major mistake.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/15/error.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/28 - 5/2</title>
-      <link>http://localhost:1313/posts/2025/05/soph-week-4/28-5/2/</link>
+      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-4/28-5/2/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/05/soph-week-4/28-5/2/</guid>
-      <description>&lt;p&gt;missed monday, so progress was limited this week.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;after testing the 3d printed wings, the gap between them felt awkward, so i merged them into a single piece.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;http://localhost:1313/img/soph/13/full_3d.png&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;http://localhost:1313/img/soph/14/shell_new.PNG&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;h6 id=&#34;comparison-original-wings-left-vs-new-merged-design-right&#34;&gt;comparison: original wings (left) vs new merged design (right)&lt;/h6&gt;&#xA;&lt;p&gt;also reintroduced trigger stands with larger pegs for better durability. added small rectangular blockers to the pcb stands to prevent movement - these should lock the pcb in place while allowing removal.&lt;/p&gt;</description>
+      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-4/28-5/2/</guid>
+      <description>&lt;p&gt;missed monday, so progress was limited this week.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;after testing the 3d printed wings, the gap between them felt awkward, so i merged them into a single piece.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/full_3d.png&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/14/shell_new.PNG&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;h6 id=&#34;comparison-original-wings-left-vs-new-merged-design-right&#34;&gt;comparison: original wings (left) vs new merged design (right)&lt;/h6&gt;&#xA;&lt;p&gt;also reintroduced trigger stands with larger pegs for better durability. added small rectangular blockers to the pcb stands to prevent movement - these should lock the pcb in place while allowing removal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/14 - 4/18</title>
-      <link>http://localhost:1313/posts/2025/04/soph-week-4/14-4/18/</link>
+      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/14-4/18/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/04/soph-week-4/14-4/18/</guid>
-      <description>&lt;p&gt;short post since i won&amp;rsquo;t be here tomorrow. made good progress this week though.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;finally added the &amp;ldquo;wings&amp;rdquo; i mentioned last week.&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/13/full_3d.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;this completes the mouse shell design. still need to figure out trigger attachment (more below), though resin printing might make that unnecessary. my initial attachment idea didn&amp;rsquo;t work well.&lt;/p&gt;&#xA;&lt;h4 id=&#34;printed&#34;&gt;printed&lt;/h4&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;http://localhost:1313/img/soph/13/full.jpeg&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;http://localhost:1313/img/soph/13/triggers.jpeg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;tried using small stands and pegs to attach the triggers, but they were too thin (.95mm) and fragile - broke with slight pressure. the holes also came out weird.&lt;/p&gt;</description>
+      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/14-4/18/</guid>
+      <description>&lt;p&gt;short post since i won&amp;rsquo;t be here tomorrow. made good progress this week though.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;finally added the &amp;ldquo;wings&amp;rdquo; i mentioned last week.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/13/full_3d.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;this completes the mouse shell design. still need to figure out trigger attachment (more below), though resin printing might make that unnecessary. my initial attachment idea didn&amp;rsquo;t work well.&lt;/p&gt;&#xA;&lt;h4 id=&#34;printed&#34;&gt;printed&lt;/h4&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/full.jpeg&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/triggers.jpeg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;tried using small stands and pegs to attach the triggers, but they were too thin (.95mm) and fragile - broke with slight pressure. the holes also came out weird.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/7 - 4/10</title>
-      <link>http://localhost:1313/posts/2025/04/soph-week-4/7-4/10/</link>
+      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/04/soph-week-4/7-4/10/</guid>
-      <description>&lt;h3 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h3&gt;&#xA;&lt;p&gt;jonas finally worked on the body, only to lose most of the progress (fun). despite this, we managed to mill the pcb and 3d print the main shell, so not much was lost. miles soldered all the components, so now we just need to test everything and do a trial run soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/12/pcb.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;one issue is that our sensors might not get fully pressed due to the robot&amp;rsquo;s light weight. this could be problematic since the code depends on complete sensor presses - when released, they&amp;rsquo;re supposed to adjust positioning based on which sensor was activated. hopefully with the battery and the other parts, we won&amp;rsquo;t have this issue.&lt;/p&gt;</description>
+      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</guid>
+      <description>&lt;h3 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h3&gt;&#xA;&lt;p&gt;jonas finally worked on the body, only to lose most of the progress (fun). despite this, we managed to mill the pcb and 3d print the main shell, so not much was lost. miles soldered all the components, so now we just need to test everything and do a trial run soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/12/pcb.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;one issue is that our sensors might not get fully pressed due to the robot&amp;rsquo;s light weight. this could be problematic since the code depends on complete sensor presses - when released, they&amp;rsquo;re supposed to adjust positioning based on which sensor was activated. hopefully with the battery and the other parts, we won&amp;rsquo;t have this issue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/1 - 4/4</title>
-      <link>http://localhost:1313/posts/2025/04/soph-week-4/1-4/4/</link>
+      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/1-4/4/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/04/soph-week-4/1-4/4/</guid>
+      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/1-4/4/</guid>
       <description>&lt;p&gt;birthday + no school monday, so shorter week.&lt;/p&gt;&#xA;&lt;h3 id=&#34;zeromouse-updates&#34;&gt;zeromouse updates&lt;/h3&gt;&#xA;&lt;p&gt;last week, i mentioned three problems that i had with my first print&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;the size is really short&amp;hellip; like way shorter than i thought&lt;/li&gt;&#xA;&lt;li&gt;the standoffs for the pcb aren&amp;rsquo;t aligned properly (mainly because i suck at measuring)&lt;/li&gt;&#xA;&lt;li&gt;the holder for the sensor was a bit small, and there was only one layer of print for it&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;so i decided to address these problems and reprint.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 3/24 - 3/28</title>
-      <link>http://localhost:1313/posts/2025/03/soph-week-3/24-3/28/</link>
+      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/03/soph-week-3/24-3/28/</guid>
-      <description>&lt;p&gt;slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/10/pcb_fixed.png&#34; alt=&#34;website&#34;&gt;&#xA;during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&amp;rsquo;t have any shorts now.&lt;/p&gt;</description>
+      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</guid>
+      <description>&lt;p&gt;slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/10/pcb_fixed.png&#34; alt=&#34;website&#34;&gt;&#xA;during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&amp;rsquo;t have any shorts now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 2/24 - 2/28 (new proj)</title>
-      <link>http://localhost:1313/posts/2025/02/soph-week-2/24-2/28-new-proj/</link>
+      <link>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/24-2/28-new-proj/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025/02/soph-week-2/24-2/28-new-proj/</guid>
-      <description>&lt;p&gt;we weren’t required to write a blog post before break, so i’m including all the updates from that week here as well.&lt;/p&gt;&#xA;&lt;p&gt;i got inspiration from &lt;a href=&#34;https://www.youtube.com/@optimumtech&#34;&gt;optimum&lt;/a&gt; youtube videos, where he creates a custom mod for the viper v2 pro mouse.&lt;/p&gt;&#xA;&lt;p&gt;i decided to try something similar with the targus amu660, taking its internals and designing a &amp;ldquo;zerømouse&amp;rdquo;-inspired shell for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;3d-model-of-pcb&#34;&gt;3d model of pcb&lt;/h4&gt;&#xA;&lt;p&gt;i began by creating a basic 3d model of the pcb to serve as the foundation for the shell and other components. in the image below, i’ve only modeled the left and right mouse buttons, along with the parts needed for the scroll wheel.&#xA;website&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/7/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/24-2/28-new-proj/</guid>
+      <description>&lt;p&gt;we weren’t required to write a blog post before break, so i’m including all the updates from that week here as well.&lt;/p&gt;&#xA;&lt;p&gt;i got inspiration from &lt;a href=&#34;https://www.youtube.com/@optimumtech&#34;&gt;optimum&lt;/a&gt; youtube videos, where he creates a custom mod for the viper v2 pro mouse.&lt;/p&gt;&#xA;&lt;p&gt;i decided to try something similar with the targus amu660, taking its internals and designing a &amp;ldquo;zerømouse&amp;rdquo;-inspired shell for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;3d-model-of-pcb&#34;&gt;3d model of pcb&lt;/h4&gt;&#xA;&lt;p&gt;i began by creating a basic 3d model of the pcb to serve as the foundation for the shell and other components. in the image below, i’ve only modeled the left and right mouse buttons, along with the parts needed for the scroll wheel.&#xA;website&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/7/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
