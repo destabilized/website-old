@@ -5,15 +5,15 @@
         <description>Recent content in Posts on andrew huang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 12:41:09 -0400</lastBuildDate>
         <atom:link href="https://andrewhuang.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>soph week 5/12 - 5/17</title>
-            <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/17/</link>
+            <title>soph week 5/12 - 5/16 (end of sumobot?)</title>
+            <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</link>
             <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
             
-            <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/17/</guid>
+            <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</guid>
             <description>&lt;p&gt;blog post not required, but i did so much this week that i don&amp;rsquo;t want to merge another week of work into this post.&lt;/p&gt;
 &lt;p&gt;sumobot competition in four more school days.&lt;/p&gt;
 &lt;h3 id=&#34;massive-code-changes&#34;&gt;massive code changes&lt;/h3&gt;
@@ -101,6 +101,9 @@
 </div>
 <h6 id="random-numbers-this-time-also-used-5-16--100-cause-there-wasnt-much-difference-between-like-600-and-620">random numbers this time. also used (5-16) * 100 cause there wasn&rsquo;t much difference between like 600 and 620</h6>
 <p>with all of this, i believe our sumobot is done. potentially gotta fix the problems where it gets stuck for a bit (if possible), but that&rsquo;s all.</p>
+<h3 id="sumobot-results">sumobot results</h3>
+<p>the orange bot (the one that miles claimed) got second, losing to <a href="https://timmy.greenlifestylelabs.com/">tims</a> and <a href="https://benjismit.wordpress.com/">benji</a> with their extremely fast, suicide bot.</p>
+<p>while we are given an extra week to revamp and improve our bots (as a few didn&rsquo;t work as intended), we likely won&rsquo;t be continuing our bot, marking the end of this project&hellip;unless?</p>
 <video width="640" height="360" controls>
   <source src="/vids/soph/16/funny.mp4" type="video/mp4">
 </video>

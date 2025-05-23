@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>soph week 5/12 - 5/17</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/17/</link>
+      <title>soph week 5/12 - 5/16 (end of sumobot?)</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/17/</guid>
+      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</guid>
       <description>&lt;p&gt;blog post not required, but i did so much this week that i don&amp;rsquo;t want to merge another week of work into this post.&lt;/p&gt;&#xA;&lt;p&gt;sumobot competition in four more school days.&lt;/p&gt;&#xA;&lt;h3 id=&#34;massive-code-changes&#34;&gt;massive code changes&lt;/h3&gt;&#xA;&lt;p&gt;wanted to further simplify my code, even though it was already pretty simplified. also added a few things.&lt;/p&gt;&#xA;&lt;h4 id=&#34;directional-movements&#34;&gt;directional movements&lt;/h4&gt;&#xA;&lt;p&gt;previously, my code looked like this.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/8/directions.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while there is nothing wrong with this, it was quite cluttered with all the digitalwrites, so i decided to simplify it.&lt;/p&gt;</description>
     </item>
     <item>
@@ -125,7 +125,7 @@
       <link>https://andrewhuang.vercel.app/projects/</link>
       <pubDate>Thu, 12 Dec 2024 14:00:00 +0000</pubDate>
       <guid>https://andrewhuang.vercel.app/projects/</guid>
-      <description>&lt;h2 id=&#34;deep-reinforcement-ai&#34;&gt;&lt;a href=&#34;https://github.com/siwence/inqui&#34;&gt;deep reinforcement ai&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;2024-2025&#34;&gt;2024-2025&lt;/h4&gt;&#xA;&lt;p&gt;inspired by ai warehouse, i decided to try and create my own deep reinforcement learning ai from scratch.&lt;/p&gt;&#xA;&lt;p&gt;using an environment made using pybullet and gymnasium, i created a simple obstacle course where the ai has one objective: reaching the pressure plate. by using a dqn (deep q-network) it and a reward system, it&amp;rsquo;s movements will become seemingly random, before quickly adapting to reach the pressure plate.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;deep-reinforcement-ai&#34;&gt;&lt;a href=&#34;https://github.com/siwence/inqui&#34;&gt;deep reinforcement ai&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;2024---early-2025&#34;&gt;2024 - early 2025&lt;/h4&gt;&#xA;&lt;p&gt;inspired by ai warehouse, i decided to try and create my own deep reinforcement learning ai from scratch.&lt;/p&gt;&#xA;&lt;p&gt;using an environment made using pybullet and gymnasium, i created a simple obstacle course where the ai has one objective: reaching the pressure plate. by using a dqn (deep q-network) it and a reward system, it&amp;rsquo;s movements will become seemingly random, before quickly adapting to reach the pressure plate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>about me</title>

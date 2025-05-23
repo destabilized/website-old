@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## [deep reinforcement ai](https://github.com/siwence/inqui)
-#### 2024-2025
+#### 2024 - early 2025
 
 inspired by ai warehouse, i decided to try and create my own deep reinforcement learning ai from scratch.
 
@@ -38,11 +38,15 @@ for the sensor, i decided to use a temperature sensor, which would change the co
 for my acrylic piece, i found a derpy version of froakie, and ended up using that as my acyrlic piece.
 
 ## sumobot project
-#### 2025 - now
+#### 2025 - 05/2025
 
-another hands-on engineering project that's a competition in pairs of two. i partnered with [jonas](https://jonaswirz.wordpress.com/). jonas worked on the cad, while i worked on the hardware.
+another hands-on engineering project that's a competition in pairs of two. i partnered with [jonas](https://jonaswirz.wordpress.com/) and [miles](https://www.mileshilliard.com/). jonas worked on the cad, while i worked on the hardware. miles would solder and help test the sumobot.
 
 we had a few restrictions on the sumobot, such as weight and size like normal sumobot competitions. in the end, we had a tournament style with the sumobot to determine who had the best bot.
+
+while many bots used infrared sensors and a distance sensor, we decided to take a different approach and make ours fully mechanical, using roller lever switches to deteremine when the bot is on / off the arena.
+
+in the end, the bot got 2nd place, barely losing 4-2 in a bo7 match against the winners.
 
 (image soon when finished?)
 

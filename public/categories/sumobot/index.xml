@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/categories/sumobot/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>soph week 5/12 - 5/17</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/17/</link>
+      <title>soph week 5/12 - 5/16 (end of sumobot?)</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/17/</guid>
+      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</guid>
       <description>&lt;p&gt;blog post not required, but i did so much this week that i don&amp;rsquo;t want to merge another week of work into this post.&lt;/p&gt;&#xA;&lt;p&gt;sumobot competition in four more school days.&lt;/p&gt;&#xA;&lt;h3 id=&#34;massive-code-changes&#34;&gt;massive code changes&lt;/h3&gt;&#xA;&lt;p&gt;wanted to further simplify my code, even though it was already pretty simplified. also added a few things.&lt;/p&gt;&#xA;&lt;h4 id=&#34;directional-movements&#34;&gt;directional movements&lt;/h4&gt;&#xA;&lt;p&gt;previously, my code looked like this.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/8/directions.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while there is nothing wrong with this, it was quite cluttered with all the digitalwrites, so i decided to simplify it.&lt;/p&gt;</description>
     </item>
     <item>
