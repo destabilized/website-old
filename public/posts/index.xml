@@ -5,8 +5,43 @@
         <description>Recent content in Posts on andrew huang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 23 May 2025 12:41:09 -0400</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://andrewhuang.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>soph week 5/26 - 5/30</title>
+            <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/26-5/30/</link>
+            <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/26-5/30/</guid>
+            <description>&lt;p&gt;we were given an extra week to work on the sumobot, but we didn&amp;rsquo;t want to continue working on our sumobot seeing that we already did decently.&lt;/p&gt;
+&lt;p&gt;as a result, i decided to revisit my zeromouse project as i want to finish it before the end of the school year.&lt;/p&gt;
+&lt;p&gt;seniors leaving, so i had to transfer everything to an actual computer. currently trying to install linux mint with lots of problems lol.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>we were given an extra week to work on the sumobot, but we didn&rsquo;t want to continue working on our sumobot seeing that we already did decently.</p>
+<p>as a result, i decided to revisit my zeromouse project as i want to finish it before the end of the school year.</p>
+<p>seniors leaving, so i had to transfer everything to an actual computer. currently trying to install linux mint with lots of problems lol.</p>
+<h3 id="trigger-updates">trigger updates</h3>
+<p>if you recall from my previous blog post, the left side of my triggers were pretty messed up as both sides had different geometries.</p>
+<p>i tried using a sweep to redo this design, but i figured out that you can&rsquo;t sweep with two rails.</p>
+<p>so i asked help from <a href="https://timmy.greenlifestylelabs.com/">tim</a> who suggested that i should loft part of it, then extrude the rest of the sides outwards to get the same size and geometry.</p>
+<p><img src="/img/soph/17/left_trigger_left.png" alt="website"></p>
+<h6 id="left-side-of-mouse-trigger">left side of mouse trigger</h6>
+<p>this ended up working perfectly, and fixed the problems with my mouse trigger that i had previously.</p>
+<p><img src="/img/soph/17/left_trigger_right.png" alt="website"></p>
+<h6 id="right-side-of-mouse-trigger">right side of mouse trigger</h6>
+<p>in the end, my triggers were almost a one-to-one copy of the original that i took <a href="https://www.printables.com/model/979182-lightweight-zeromouse-inspired-logitech-mx-mouse-m">linked here</a> from this model</p>
+<p>after fixing the general shape, i had to create the &ldquo;stand&rdquo; for the mouse to mount onto the shell.
+<img src="/img/soph/17/stand.png" alt="website"></p>
+<p>had some problems with this one as well, but thanks to tim again, i got the stand to work. this may be adjusted slightly to fit my shell design, but it&rsquo;s looking promising so far.</p>
+<h4 id="clicking-mechanism--problems">clicking mechanism + problems</h4>
+<p>the final thing i had to do before testing out the print was making a clicking mechanism. had some problems creating the ramp and the clicker? (what do i call this) as it was a curved surface, so i wasn&rsquo;t able to directly make a sketch and extrude outwards.</p>
+<p><img src="/img/soph/17/pressing.png" alt="website"></p>
+<p>with all of this done, i can now mirror it to create the right trigger when it&rsquo;s done.</p>
+<p>a problem was present however.</p>
+<p><img src="/img/soph/17/problem.png" alt="website"></p>
+<p>as seen in the image, the scroll wheel stand was too tall for the trigger so i&rsquo;ll have to adjust the clicking thingy&rsquo;s length and the length of the stand so that the trigger doesn&rsquo;t get in the way. additionally, i may have to move the position of the clicker further upwards so the scroll wheel isn&rsquo;t in a weird place again.</p>
+]]></content>
+        </item>
         
         <item>
             <title>soph week 5/12 - 5/16 (end of sumobot?)</title>
