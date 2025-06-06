@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on andrew huang</title>
-    <link>https://andrewhuang.vercel.app/categories/blog/</link>
+    <link>http://localhost:1313/categories/blog/</link>
     <description>Recent content in Blog on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andrewhuang.vercel.app/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>soph week 6/2 - 6/6</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/06/soph-week-6/2-6/6/</link>
+      <link>http://localhost:1313/posts/2025/06/soph-week-6/2-6/6/</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/06/soph-week-6/2-6/6/</guid>
+      <guid>http://localhost:1313/posts/2025/06/soph-week-6/2-6/6/</guid>
       <description>&lt;p&gt;got most of my things transfered from my previous linux installation into mint so i could finally start working on things again.&lt;/p&gt;&#xA;&lt;p&gt;i have an idea of what i want to do junior and senior year, so i wanted to finish the zeromouse soon.&lt;/p&gt;&#xA;&lt;p&gt;errors occured though, and with the limited time due to eventual half days, finals, and other tests, this week was slightly shorter for me.&lt;/p&gt;&#xA;&lt;h3 id=&#34;trigger&#34;&gt;trigger&lt;/h3&gt;&#xA;&lt;p&gt;so, as you can recall from my blog post, the dimensions were a bit off.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 5/26 - 5/30</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/26-5/30/</link>
+      <link>http://localhost:1313/posts/2025/05/soph-week-5/26-5/30/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/26-5/30/</guid>
+      <guid>http://localhost:1313/posts/2025/05/soph-week-5/26-5/30/</guid>
       <description>&lt;p&gt;we were given an extra week to work on the sumobot, but we didn&amp;rsquo;t want to continue working on our sumobot seeing that we already did decently.&lt;/p&gt;&#xA;&lt;p&gt;as a result, i decided to revisit my zeromouse project as i want to finish it before the end of the school year.&lt;/p&gt;&#xA;&lt;p&gt;seniors leaving, so i had to transfer everything to an actual computer. currently trying to install linux mint with lots of problems lol.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 5/12 - 5/16 (end of sumobot?)</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</link>
+      <link>http://localhost:1313/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</guid>
-      <description>&lt;p&gt;blog post not required, but i did so much this week that i don&amp;rsquo;t want to merge another week of work into this post.&lt;/p&gt;&#xA;&lt;p&gt;sumobot competition in four more school days.&lt;/p&gt;&#xA;&lt;h3 id=&#34;massive-code-changes&#34;&gt;massive code changes&lt;/h3&gt;&#xA;&lt;p&gt;wanted to further simplify my code, even though it was already pretty simplified. also added a few things.&lt;/p&gt;&#xA;&lt;h4 id=&#34;directional-movements&#34;&gt;directional movements&lt;/h4&gt;&#xA;&lt;p&gt;previously, my code looked like this.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/8/directions.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while there is nothing wrong with this, it was quite cluttered with all the digitalwrites, so i decided to simplify it.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</guid>
+      <description>&lt;p&gt;blog post not required, but i did so much this week that i don&amp;rsquo;t want to merge another week of work into this post.&lt;/p&gt;&#xA;&lt;p&gt;sumobot competition in four more school days.&lt;/p&gt;&#xA;&lt;h3 id=&#34;massive-code-changes&#34;&gt;massive code changes&lt;/h3&gt;&#xA;&lt;p&gt;wanted to further simplify my code, even though it was already pretty simplified. also added a few things.&lt;/p&gt;&#xA;&lt;h4 id=&#34;directional-movements&#34;&gt;directional movements&lt;/h4&gt;&#xA;&lt;p&gt;previously, my code looked like this.&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/8/directions.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while there is nothing wrong with this, it was quite cluttered with all the digitalwrites, so i decided to simplify it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 5/05 - 5/09</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/05-5/09/</link>
+      <link>http://localhost:1313/posts/2025/05/soph-week-5/05-5/09/</link>
       <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/05-5/09/</guid>
-      <description>&lt;p&gt;had to restart because of an error i made a while ago that i should&amp;rsquo;ve noticed and addressed earlier&amp;hellip;. whoops.&lt;/p&gt;&#xA;&lt;p&gt;slow week because of ap tests, health, and a half day from monday - wednesday, but whatever.&lt;/p&gt;&#xA;&lt;h4 id=&#34;restarting-so-fun&#34;&gt;restarting! (so fun!)&lt;/h4&gt;&#xA;&lt;p&gt;so. i never decided to test my shells with the scroll wheel for some reason, but i eventually decided to, just to realize that i made a major mistake.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/15/error.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/05/soph-week-5/05-5/09/</guid>
+      <description>&lt;p&gt;had to restart because of an error i made a while ago that i should&amp;rsquo;ve noticed and addressed earlier&amp;hellip;. whoops.&lt;/p&gt;&#xA;&lt;p&gt;slow week because of ap tests, health, and a half day from monday - wednesday, but whatever.&lt;/p&gt;&#xA;&lt;h4 id=&#34;restarting-so-fun&#34;&gt;restarting! (so fun!)&lt;/h4&gt;&#xA;&lt;p&gt;so. i never decided to test my shells with the scroll wheel for some reason, but i eventually decided to, just to realize that i made a major mistake.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/15/error.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/28 - 5/2</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-4/28-5/2/</link>
+      <link>http://localhost:1313/posts/2025/05/soph-week-4/28-5/2/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-4/28-5/2/</guid>
-      <description>&lt;p&gt;missed monday, so progress was limited this week.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;after testing the 3d printed wings, the gap between them felt awkward, so i merged them into a single piece.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/full_3d.png&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/14/shell_new.PNG&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;h6 id=&#34;comparison-original-wings-left-vs-new-merged-design-right&#34;&gt;comparison: original wings (left) vs new merged design (right)&lt;/h6&gt;&#xA;&lt;p&gt;also reintroduced trigger stands with larger pegs for better durability. added small rectangular blockers to the pcb stands to prevent movement - these should lock the pcb in place while allowing removal.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/05/soph-week-4/28-5/2/</guid>
+      <description>&lt;p&gt;missed monday, so progress was limited this week.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;after testing the 3d printed wings, the gap between them felt awkward, so i merged them into a single piece.&lt;/p&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;http://localhost:1313/img/soph/13/full_3d.png&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;http://localhost:1313/img/soph/14/shell_new.PNG&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;h6 id=&#34;comparison-original-wings-left-vs-new-merged-design-right&#34;&gt;comparison: original wings (left) vs new merged design (right)&lt;/h6&gt;&#xA;&lt;p&gt;also reintroduced trigger stands with larger pegs for better durability. added small rectangular blockers to the pcb stands to prevent movement - these should lock the pcb in place while allowing removal.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/14 - 4/18</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/14-4/18/</link>
+      <link>http://localhost:1313/posts/2025/04/soph-week-4/14-4/18/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/14-4/18/</guid>
-      <description>&lt;p&gt;short post since i won&amp;rsquo;t be here tomorrow. made good progress this week though.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;finally added the &amp;ldquo;wings&amp;rdquo; i mentioned last week.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/13/full_3d.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;this completes the mouse shell design. still need to figure out trigger attachment (more below), though resin printing might make that unnecessary. my initial attachment idea didn&amp;rsquo;t work well.&lt;/p&gt;&#xA;&lt;h4 id=&#34;printed&#34;&gt;printed&lt;/h4&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/full.jpeg&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;https://andrewhuang.vercel.app/img/soph/13/triggers.jpeg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;tried using small stands and pegs to attach the triggers, but they were too thin (.95mm) and fragile - broke with slight pressure. the holes also came out weird.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/04/soph-week-4/14-4/18/</guid>
+      <description>&lt;p&gt;short post since i won&amp;rsquo;t be here tomorrow. made good progress this week though.&lt;/p&gt;&#xA;&lt;h4 id=&#34;wings&#34;&gt;wings&lt;/h4&gt;&#xA;&lt;p&gt;finally added the &amp;ldquo;wings&amp;rdquo; i mentioned last week.&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/13/full_3d.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;this completes the mouse shell design. still need to figure out trigger attachment (more below), though resin printing might make that unnecessary. my initial attachment idea didn&amp;rsquo;t work well.&lt;/p&gt;&#xA;&lt;h4 id=&#34;printed&#34;&gt;printed&lt;/h4&gt;&#xA;&lt;div style=&#34;display: flex;&#34;&gt;  &#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;http://localhost:1313/img/soph/13/full.jpeg&#34;&gt;&#xA;  &lt;img style=&#34;width: 45%;&#34; src=&#34;http://localhost:1313/img/soph/13/triggers.jpeg&#34;&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;tried using small stands and pegs to attach the triggers, but they were too thin (.95mm) and fragile - broke with slight pressure. the holes also came out weird.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/7 - 4/10</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</link>
+      <link>http://localhost:1313/posts/2025/04/soph-week-4/7-4/10/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</guid>
-      <description>&lt;h3 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h3&gt;&#xA;&lt;p&gt;jonas finally worked on the body, only to lose most of the progress (fun). despite this, we managed to mill the pcb and 3d print the main shell, so not much was lost. miles soldered all the components, so now we just need to test everything and do a trial run soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/12/pcb.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;one issue is that our sensors might not get fully pressed due to the robot&amp;rsquo;s light weight. this could be problematic since the code depends on complete sensor presses - when released, they&amp;rsquo;re supposed to adjust positioning based on which sensor was activated. hopefully with the battery and the other parts, we won&amp;rsquo;t have this issue.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/04/soph-week-4/7-4/10/</guid>
+      <description>&lt;h3 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h3&gt;&#xA;&lt;p&gt;jonas finally worked on the body, only to lose most of the progress (fun). despite this, we managed to mill the pcb and 3d print the main shell, so not much was lost. miles soldered all the components, so now we just need to test everything and do a trial run soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/12/pcb.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;one issue is that our sensors might not get fully pressed due to the robot&amp;rsquo;s light weight. this could be problematic since the code depends on complete sensor presses - when released, they&amp;rsquo;re supposed to adjust positioning based on which sensor was activated. hopefully with the battery and the other parts, we won&amp;rsquo;t have this issue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/1 - 4/4</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/1-4/4/</link>
+      <link>http://localhost:1313/posts/2025/04/soph-week-4/1-4/4/</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/1-4/4/</guid>
+      <guid>http://localhost:1313/posts/2025/04/soph-week-4/1-4/4/</guid>
       <description>&lt;p&gt;birthday + no school monday, so shorter week.&lt;/p&gt;&#xA;&lt;h3 id=&#34;zeromouse-updates&#34;&gt;zeromouse updates&lt;/h3&gt;&#xA;&lt;p&gt;last week, i mentioned three problems that i had with my first print&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;the size is really short&amp;hellip; like way shorter than i thought&lt;/li&gt;&#xA;&lt;li&gt;the standoffs for the pcb aren&amp;rsquo;t aligned properly (mainly because i suck at measuring)&lt;/li&gt;&#xA;&lt;li&gt;the holder for the sensor was a bit small, and there was only one layer of print for it&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;so i decided to address these problems and reprint.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 3/24 - 3/28</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</link>
+      <link>http://localhost:1313/posts/2025/03/soph-week-3/24-3/28/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</guid>
-      <description>&lt;p&gt;slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/10/pcb_fixed.png&#34; alt=&#34;website&#34;&gt;&#xA;during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&amp;rsquo;t have any shorts now.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/03/soph-week-3/24-3/28/</guid>
+      <description>&lt;p&gt;slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/10/pcb_fixed.png&#34; alt=&#34;website&#34;&gt;&#xA;during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&amp;rsquo;t have any shorts now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 3/17 - 3/21</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</link>
+      <link>http://localhost:1313/posts/2025/03/soph-week-3/17-3/21/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</guid>
-      <description>&lt;p&gt;i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/9/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.&lt;/p&gt;&#xA;&lt;p&gt;another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/03/soph-week-3/17-3/21/</guid>
+      <description>&lt;p&gt;i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/9/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.&lt;/p&gt;&#xA;&lt;p&gt;another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 3/3 - 3/14 (sumobot)</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/</link>
+      <link>http://localhost:1313/posts/2025/03/soph-week-3/3-3/14-sumobot/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/</guid>
+      <guid>http://localhost:1313/posts/2025/03/soph-week-3/3-3/14-sumobot/</guid>
       <description>&lt;p&gt;long blog post because we didn&amp;rsquo;t really do much last week, so i&amp;rsquo;m cramming everyhting into this blog post.&lt;/p&gt;&#xA;&lt;p&gt;we started the sumobot project, where we have to create a &amp;lt;500g robot which will play sumo with other robots.&lt;/p&gt;&#xA;&lt;p&gt;i&amp;rsquo;m sadly doing the project solo, but will be getting some help from my friends to compensate.&lt;/p&gt;&#xA;&lt;h4 id=&#34;idea&#34;&gt;idea&lt;/h4&gt;&#xA;&lt;p&gt;last week, i spent most of my time researching professional sumobot competitions and studying the strategies used by other robots.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 2/24 - 2/28 (new proj)</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/24-2/28-new-proj/</link>
+      <link>http://localhost:1313/posts/2025/02/soph-week-2/24-2/28-new-proj/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/24-2/28-new-proj/</guid>
-      <description>&lt;p&gt;we weren’t required to write a blog post before break, so i’m including all the updates from that week here as well.&lt;/p&gt;&#xA;&lt;p&gt;i got inspiration from &lt;a href=&#34;https://www.youtube.com/@optimumtech&#34;&gt;optimum&lt;/a&gt; youtube videos, where he creates a custom mod for the viper v2 pro mouse.&lt;/p&gt;&#xA;&lt;p&gt;i decided to try something similar with the targus amu660, taking its internals and designing a &amp;ldquo;zerømouse&amp;rdquo;-inspired shell for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;3d-model-of-pcb&#34;&gt;3d model of pcb&lt;/h4&gt;&#xA;&lt;p&gt;i began by creating a basic 3d model of the pcb to serve as the foundation for the shell and other components. in the image below, i’ve only modeled the left and right mouse buttons, along with the parts needed for the scroll wheel.&#xA;website&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/7/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/02/soph-week-2/24-2/28-new-proj/</guid>
+      <description>&lt;p&gt;we weren’t required to write a blog post before break, so i’m including all the updates from that week here as well.&lt;/p&gt;&#xA;&lt;p&gt;i got inspiration from &lt;a href=&#34;https://www.youtube.com/@optimumtech&#34;&gt;optimum&lt;/a&gt; youtube videos, where he creates a custom mod for the viper v2 pro mouse.&lt;/p&gt;&#xA;&lt;p&gt;i decided to try something similar with the targus amu660, taking its internals and designing a &amp;ldquo;zerømouse&amp;rdquo;-inspired shell for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;3d-model-of-pcb&#34;&gt;3d model of pcb&lt;/h4&gt;&#xA;&lt;p&gt;i began by creating a basic 3d model of the pcb to serve as the foundation for the shell and other components. in the image below, i’ve only modeled the left and right mouse buttons, along with the parts needed for the scroll wheel.&#xA;website&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/7/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 2/3 - 2/7 (finished lightbox)</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</link>
+      <link>http://localhost:1313/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</guid>
-      <description>&lt;p&gt;i broke another computer. that makes it the fourth thing i’ve broken this year as a sophomore&amp;hellip; at least i managed to complete my lightbox this week.&lt;/p&gt;&#xA;&lt;p&gt;most of my time was spent 3d printing the enclosure and laser cutting the acrylic piece.&lt;/p&gt;&#xA;&lt;h4 id=&#34;acrylic-piece&#34;&gt;acrylic piece&lt;/h4&gt;&#xA;&lt;p&gt;while the box parts were printing, i continued working on the acrylic design and did a test cut on cardboard to check the fit.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/6/card.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;the initial piece was slightly longer than i wanted, so i scaled it down to make it more compact. the adjusted size looked much better.&#xA;website.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/6/acrylic.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/02/soph-week-2/3-2/7-finished-lightbox/</guid>
+      <description>&lt;p&gt;i broke another computer. that makes it the fourth thing i’ve broken this year as a sophomore&amp;hellip; at least i managed to complete my lightbox this week.&lt;/p&gt;&#xA;&lt;p&gt;most of my time was spent 3d printing the enclosure and laser cutting the acrylic piece.&lt;/p&gt;&#xA;&lt;h4 id=&#34;acrylic-piece&#34;&gt;acrylic piece&lt;/h4&gt;&#xA;&lt;p&gt;while the box parts were printing, i continued working on the acrylic design and did a test cut on cardboard to check the fit.&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/6/card.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;the initial piece was slightly longer than i wanted, so i scaled it down to make it more compact. the adjusted size looked much better.&#xA;website.&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/6/acrylic.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 1/27 - 1/31</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/27-1/31/</link>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/27-1/31/</link>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/27-1/31/</guid>
-      <description>&lt;p&gt;i should be able to finish my lightbox by next week. just a few more tasks left to complete.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/5/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while preparing to mill my pcb, mr. christy suggested that using power and ground symbols would help clean up my schematic. i also ran into some issues during the milling process because i used incorrect components, as i hadn’t taken the time to set up an electronic library.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/27-1/31/</guid>
+      <description>&lt;p&gt;i should be able to finish my lightbox by next week. just a few more tasks left to complete.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/5/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while preparing to mill my pcb, mr. christy suggested that using power and ground symbols would help clean up my schematic. i also ran into some issues during the milling process because i used incorrect components, as i hadn’t taken the time to set up an electronic library.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 1/20 - 1/24</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/20-1/24/</link>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/20-1/24/</link>
       <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/20-1/24/</guid>
-      <description>&lt;p&gt;slightly shorter week due to mlk day, so i focused more on double checking everything rather than starting something new.&lt;/p&gt;&#xA;&lt;h4 id=&#34;box-design-completed&#34;&gt;box design (completed?)&lt;/h4&gt;&#xA;&lt;p&gt;i first created the lid for my box, which utilizes friction-fit, eliminating the need to use screws to keep the aesthetics clean.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/4/lid.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;additionally, i designed a separate compartment to house my neopixel. i previously had the component connected with my lid, but that would lead to overhang when printing. by creating it as a new component, i will have to print them separately, and combine them together.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/20-1/24/</guid>
+      <description>&lt;p&gt;slightly shorter week due to mlk day, so i focused more on double checking everything rather than starting something new.&lt;/p&gt;&#xA;&lt;h4 id=&#34;box-design-completed&#34;&gt;box design (completed?)&lt;/h4&gt;&#xA;&lt;p&gt;i first created the lid for my box, which utilizes friction-fit, eliminating the need to use screws to keep the aesthetics clean.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/4/lid.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;additionally, i designed a separate compartment to house my neopixel. i previously had the component connected with my lid, but that would lead to overhang when printing. by creating it as a new component, i will have to print them separately, and combine them together.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 1/13 - 1/17</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/13-1/17/</link>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/13-1/17/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/13-1/17/</guid>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/13-1/17/</guid>
       <description>&lt;p&gt;finally figured out how all the bugs work, and fixed them.&lt;/p&gt;&#xA;&lt;p&gt;another week of the lightbox project, where i spent monday finalizing my code, before working purely on my box design.&lt;/p&gt;&#xA;&lt;h4 id=&#34;box-design&#34;&gt;box design&lt;/h4&gt;&#xA;&lt;p&gt;i started this week by restarting my entire box, as i previously didn&amp;rsquo;t have my box cenetered around the origin, and i was building it on the wrong axis. additionally, the dimensions were all messed up, as i was using a wrong scale. upon fixing all my mistakes, i started adding in all of the different type of connection ports on the mac mini. these ports won&amp;rsquo;t have any functionality besides one, which will be used for powering the lightbox.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 1/2 - 1/10</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/2-1/10/</link>
+      <link>http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/01/soph-week-1/2-1/10/</guid>
-      <description>&lt;p&gt;new years, same bugs.&lt;/p&gt;&#xA;&lt;p&gt;due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.&lt;/p&gt;&#xA;&lt;p&gt;i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.&lt;/p&gt;&#xA;&lt;h4 id=&#34;2d-model-of-my-pcb&#34;&gt;2d model of my pcb&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/2/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible. i may redesign the board to use a type-c connector for power to better fit my design&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/01/soph-week-1/2-1/10/</guid>
+      <description>&lt;p&gt;new years, same bugs.&lt;/p&gt;&#xA;&lt;p&gt;due to the new years, i decided to just incorperate the 2 days we had on the 2nd, and the 3rd to this post.&lt;/p&gt;&#xA;&lt;p&gt;i started this week by focusing on the pcb design for my lightbox, and got guidance from my friend miles on how to create the pcb.&lt;/p&gt;&#xA;&lt;h4 id=&#34;2d-model-of-my-pcb&#34;&gt;2d model of my pcb&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/2/pcb.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;shown above is the 2d model of my pcb, where i tried to make it as compact as possible, in the effort to create as small of a board as possible. i may redesign the board to use a type-c connector for power to better fit my design&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 12/16 - 12/20</title>
-      <link>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</link>
+      <link>http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2024/12/soph-week-12/16-12/20/</guid>
+      <guid>http://localhost:1313/posts/2024/12/soph-week-12/16-12/20/</guid>
       <description>&lt;p&gt;this week was all about lightbox project, where i had lots of issues.&lt;/p&gt;&#xA;&lt;p&gt;generally with the lightbox, you use an atmega328p, but i decided to create as small of a lightbox as possible, and ended up using an attiny84&lt;/p&gt;&#xA;&lt;p&gt;orignally, i was planning to use an attiny25, as the shop doesn&amp;rsquo;t have an attiny85&amp;rsquo;s, but the problem is that despite using lightweight libraries to allow the attiny25 to run the code, it just cannot handle the neopixel, and leads to plenty of errors.&lt;/p&gt;</description>
     </item>
   </channel>

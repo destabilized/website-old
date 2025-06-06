@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sumobot on andrew huang</title>
-    <link>https://andrewhuang.vercel.app/categories/sumobot/</link>
+    <link>http://localhost:1313/categories/sumobot/</link>
     <description>Recent content in Sumobot on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://andrewhuang.vercel.app/categories/sumobot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/sumobot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>soph week 5/12 - 5/16 (end of sumobot?)</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</link>
+      <link>http://localhost:1313/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</guid>
-      <description>&lt;p&gt;blog post not required, but i did so much this week that i don&amp;rsquo;t want to merge another week of work into this post.&lt;/p&gt;&#xA;&lt;p&gt;sumobot competition in four more school days.&lt;/p&gt;&#xA;&lt;h3 id=&#34;massive-code-changes&#34;&gt;massive code changes&lt;/h3&gt;&#xA;&lt;p&gt;wanted to further simplify my code, even though it was already pretty simplified. also added a few things.&lt;/p&gt;&#xA;&lt;h4 id=&#34;directional-movements&#34;&gt;directional movements&lt;/h4&gt;&#xA;&lt;p&gt;previously, my code looked like this.&#xA;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/8/directions.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while there is nothing wrong with this, it was quite cluttered with all the digitalwrites, so i decided to simplify it.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/05/soph-week-5/12-5/16-end-of-sumobot/</guid>
+      <description>&lt;p&gt;blog post not required, but i did so much this week that i don&amp;rsquo;t want to merge another week of work into this post.&lt;/p&gt;&#xA;&lt;p&gt;sumobot competition in four more school days.&lt;/p&gt;&#xA;&lt;h3 id=&#34;massive-code-changes&#34;&gt;massive code changes&lt;/h3&gt;&#xA;&lt;p&gt;wanted to further simplify my code, even though it was already pretty simplified. also added a few things.&lt;/p&gt;&#xA;&lt;h4 id=&#34;directional-movements&#34;&gt;directional movements&lt;/h4&gt;&#xA;&lt;p&gt;previously, my code looked like this.&#xA;&lt;img src=&#34;http://localhost:1313/img/soph/8/directions.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;while there is nothing wrong with this, it was quite cluttered with all the digitalwrites, so i decided to simplify it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 4/7 - 4/10</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</link>
+      <link>http://localhost:1313/posts/2025/04/soph-week-4/7-4/10/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/04/soph-week-4/7-4/10/</guid>
-      <description>&lt;h3 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h3&gt;&#xA;&lt;p&gt;jonas finally worked on the body, only to lose most of the progress (fun). despite this, we managed to mill the pcb and 3d print the main shell, so not much was lost. miles soldered all the components, so now we just need to test everything and do a trial run soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/12/pcb.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;one issue is that our sensors might not get fully pressed due to the robot&amp;rsquo;s light weight. this could be problematic since the code depends on complete sensor presses - when released, they&amp;rsquo;re supposed to adjust positioning based on which sensor was activated. hopefully with the battery and the other parts, we won&amp;rsquo;t have this issue.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/04/soph-week-4/7-4/10/</guid>
+      <description>&lt;h3 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h3&gt;&#xA;&lt;p&gt;jonas finally worked on the body, only to lose most of the progress (fun). despite this, we managed to mill the pcb and 3d print the main shell, so not much was lost. miles soldered all the components, so now we just need to test everything and do a trial run soon.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/12/pcb.jpeg&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;one issue is that our sensors might not get fully pressed due to the robot&amp;rsquo;s light weight. this could be problematic since the code depends on complete sensor presses - when released, they&amp;rsquo;re supposed to adjust positioning based on which sensor was activated. hopefully with the battery and the other parts, we won&amp;rsquo;t have this issue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 3/24 - 3/28</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</link>
+      <link>http://localhost:1313/posts/2025/03/soph-week-3/24-3/28/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/24-3/28/</guid>
-      <description>&lt;p&gt;slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/10/pcb_fixed.png&#34; alt=&#34;website&#34;&gt;&#xA;during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&amp;rsquo;t have any shorts now.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/03/soph-week-3/24-3/28/</guid>
+      <description>&lt;p&gt;slow week since my partner focused more on the rov than our sumobot, so i went back to working on my zeromouse project.&lt;/p&gt;&#xA;&lt;h4 id=&#34;sumobot-updates&#34;&gt;sumobot updates&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/10/pcb_fixed.png&#34; alt=&#34;website&#34;&gt;&#xA;during our blog post presentations, my friend miles spotted an issue with my button wiring. turns out i was using a faulty button footprint with incorrect wiring. after switching to the right footprint and fixing the connections, the pcb shouldn&amp;rsquo;t have any shorts now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 3/17 - 3/21</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</link>
+      <link>http://localhost:1313/posts/2025/03/soph-week-3/17-3/21/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/17-3/21/</guid>
-      <description>&lt;p&gt;i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://andrewhuang.vercel.app/img/soph/9/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.&lt;/p&gt;&#xA;&lt;p&gt;another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/2025/03/soph-week-3/17-3/21/</guid>
+      <description>&lt;p&gt;i’ve finished all the electrical work for the sumobot. now, i just need to mill the pcb and get a body for it.&lt;/p&gt;&#xA;&lt;h4 id=&#34;schematic-of-the-board&#34;&gt;schematic of the board&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/soph/9/schem.png&#34; alt=&#34;website&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;above is the schematic of my board. i ran into a few issues while creating it, mostly because the components defaulted to smd instead of through-hole. other than that, designing the pcb was relatively straightforward.&lt;/p&gt;&#xA;&lt;p&gt;another challenge was finding the footprint for the md17a or the drv8833 motor driver we’re using. i spent a lot of time searching for the correct footprint since i didn’t want to create one from scratch.&lt;/p&gt;</description>
     </item>
     <item>
       <title>soph week 3/3 - 3/14 (sumobot)</title>
-      <link>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/</link>
+      <link>http://localhost:1313/posts/2025/03/soph-week-3/3-3/14-sumobot/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://andrewhuang.vercel.app/posts/2025/03/soph-week-3/3-3/14-sumobot/</guid>
+      <guid>http://localhost:1313/posts/2025/03/soph-week-3/3-3/14-sumobot/</guid>
       <description>&lt;p&gt;long blog post because we didn&amp;rsquo;t really do much last week, so i&amp;rsquo;m cramming everyhting into this blog post.&lt;/p&gt;&#xA;&lt;p&gt;we started the sumobot project, where we have to create a &amp;lt;500g robot which will play sumo with other robots.&lt;/p&gt;&#xA;&lt;p&gt;i&amp;rsquo;m sadly doing the project solo, but will be getting some help from my friends to compensate.&lt;/p&gt;&#xA;&lt;h4 id=&#34;idea&#34;&gt;idea&lt;/h4&gt;&#xA;&lt;p&gt;last week, i spent most of my time researching professional sumobot competitions and studying the strategies used by other robots.&lt;/p&gt;</description>
     </item>
   </channel>
