@@ -5,8 +5,53 @@
         <description>Recent content in Posts on andrew huang</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://andrewhuang.vercel.app/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>soph week 6/2 - 6/6</title>
+            <link>https://andrewhuang.vercel.app/posts/2025/06/soph-week-6/2-6/6/</link>
+            <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+            
+            <guid>https://andrewhuang.vercel.app/posts/2025/06/soph-week-6/2-6/6/</guid>
+            <description>&lt;p&gt;got most of my things transfered from my previous linux installation into mint so i could finally start working on things again.&lt;/p&gt;
+&lt;p&gt;i have an idea of what i want to do junior and senior year, so i wanted to finish the zeromouse soon.&lt;/p&gt;
+&lt;p&gt;errors occured though, and with the limited time due to eventual half days, finals, and other tests, this week was slightly shorter for me.&lt;/p&gt;
+&lt;h3 id=&#34;trigger&#34;&gt;trigger&lt;/h3&gt;
+&lt;p&gt;so, as you can recall from my blog post, the dimensions were a bit off.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>got most of my things transfered from my previous linux installation into mint so i could finally start working on things again.</p>
+<p>i have an idea of what i want to do junior and senior year, so i wanted to finish the zeromouse soon.</p>
+<p>errors occured though, and with the limited time due to eventual half days, finals, and other tests, this week was slightly shorter for me.</p>
+<h3 id="trigger">trigger</h3>
+<p>so, as you can recall from my blog post, the dimensions were a bit off.</p>
+<p>to fix this, i decided to shorten the length of the trigger, while increasing the pushy thing(?) length so that it could properly press the button</p>
+<p><img src="/img/soph/18/left_odl.PNG" alt="website"></p>
+<p>fixing this issue fixed my problem, and i decided to try a new mechanism to attach the pcb to the stands.</p>
+<p>first, i wanted to test the print to make sure that my idea could be printed without supports.</p>
+<p><img src="/img/soph/18/broken.jpeg" alt="website"></p>
+<p>while printing, someone told me that my print for some reason got evicted off of the build plate, and stopped printing halfway.</p>
+<p>so, some friends suggested that i use brim, and after some supervision, it turned out quite well.</p>
+<div style="display: flex;">  
+  <img style="width: 90%;" src="/img/soph/18/new1.jpeg">
+  <img style="width: 55%;" src="/img/soph/18/new2.jpeg">
+</div>
+<h4 id="innovation">innovation?</h4>
+<p>rather than making a massive shell, i wanted to try a new approach and extend the bottom of the triggers to try and avoid making a huge shell.</p>
+<p><img src="/img/soph/18/idea.jpg" alt="website"></p>
+<h6 id="this-is-from-optimums-new-zeromouse-blade-i-kinda-wanna-do-something-like-this">this is from optimum&rsquo;s new zeromouse blade, i kinda wanna do something like this</h6>
+<p>however, i will still have to create some sort of base for the sensor (as this is a cheap mouse).</p>
+<p>in the end, the mouse looked like this:
+<img src="/img/soph/18/LEFT.PNG" alt="website"></p>
+<p>however, printing this will be a problem, as there will be overhang that i probably cannot avoid.</p>
+<p>now that the left trigger was done, a simple mirror would allow me to finish the right trigger right?</p>
+<p>well, the pcb is weird, and the hole on each side is different, so i had to edit the bottom part of the right side a bit.</p>
+<div style="display: flex;">  
+  <img style="width: 90%;" src="/img/soph/18/right_problems.PNG">
+  <img style="width: 55%;" src="/img/soph/18/fixed_right.PNG">
+</div>
+<p>now that my triggers are done, i can start extending and making the &ldquo;shell&rdquo; for the mouse. additionally, i still need to figure out a minimalistic way to add the sensor holder and a way to print the mouse.</p>
+]]></content>
+        </item>
         
         <item>
             <title>soph week 5/26 - 5/30</title>
