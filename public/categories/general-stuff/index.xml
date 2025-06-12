@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Stuff on andrew huang</title>
+    <link>https://andrewhuang.vercel.app/categories/general-stuff/</link>
+    <description>Recent content in General Stuff on andrew huang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://andrewhuang.vercel.app/categories/general-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>soph week 6/9 - 6/13</title>
+      <link>https://andrewhuang.vercel.app/posts/2025/06/soph-week-6/9-6/13/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/posts/2025/06/soph-week-6/9-6/13/</guid>
+      <description>&lt;p&gt;needed a break from my zeromouse project, so i decided to help mr. christy reimage some of the computers with windows 11, as fusion is cutting support for win10. as a result, all the computers needed to be updated to win11 before the end of the school year.&lt;/p&gt;&#xA;&lt;h3 id=&#34;overheating-issue&#34;&gt;overheating issue&lt;/h3&gt;&#xA;&lt;p&gt;while mr. christy was looking in the bios to change the boot priority order, both me and miles noticed that the cpu was idling at 90+ degrees celsius, temperature that it should only reach when under full loads. along with this, there were also numerous errors saying that the cpu was overheating.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

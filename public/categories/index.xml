@@ -6,13 +6,20 @@
     <description>Recent content in Categories on andrew huang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://andrewhuang.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://andrewhuang.vercel.app/categories/blog/</link>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://andrewhuang.vercel.app/categories/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General Stuff</title>
+      <link>https://andrewhuang.vercel.app/categories/general-stuff/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://andrewhuang.vercel.app/categories/general-stuff/</guid>
       <description></description>
     </item>
     <item>
